@@ -21,6 +21,7 @@
 ## Math
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0007-reverse-integer](https://github.com/rajeev-devl/leetcode/tree/main/LeetCode/Medium/0007-reverse-integer/) | Medium |
 | [0202-happy-number](https://github.com/rajeev-devl/leetcode/tree/main/LeetCode/Easy/0202-happy-number/) | Easy |
 | [3754-concatenate-non-zero-digits-and-multiply-by-sum-i](https://github.com/rajeev-devl/leetcode/tree/main/LeetCode/Easy/3754-concatenate-non-zero-digits-and-multiply-by-sum-i/) | Easy |
 ## Two Pointers
