@@ -3,7 +3,7 @@ public:
     int candy(vector<int>& ratings) {
         int n = ratings.size();
         int sum = 0;
-        vector<int> candies(n,1);
+        vector<int> candies(n, 1);
         // compares to the left element
         for (int i = 1; i < n; i++) {
             if (ratings[i] > ratings[i - 1]) {
