@@ -9,6 +9,7 @@
 | [0066-plus-one](https://github.com/rajeev-devl/leetcode/tree/main/LeetCode/Easy/0066-plus-one/) | Easy |
 | [0074-search-a-2d-matrix](https://github.com/rajeev-devl/leetcode/tree/main/LeetCode/Medium/0074-search-a-2d-matrix/) | Medium |
 | [0135-candy](https://github.com/rajeev-devl/leetcode/tree/main/LeetCode/Hard/0135-candy/) | Hard |
+| [0283-move-zeroes](https://github.com/rajeev-devl/leetcode/tree/main/LeetCode/Easy/0283-move-zeroes/) | Easy |
 | [2078-two-furthest-houses-with-different-colors](https://github.com/rajeev-devl/leetcode/tree/main/LeetCode/Easy/2078-two-furthest-houses-with-different-colors/) | Easy |
 | [2974-minimum-number-game](https://github.com/rajeev-devl/leetcode/tree/main/LeetCode/Easy/2974-minimum-number-game/) | Easy |
 ## Binary Search
@@ -34,6 +35,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0202-happy-number](https://github.com/rajeev-devl/leetcode/tree/main/LeetCode/Easy/0202-happy-number/) | Easy |
+| [0283-move-zeroes](https://github.com/rajeev-devl/leetcode/tree/main/LeetCode/Easy/0283-move-zeroes/) | Easy |
 ## Sorting
 | Problem Name | Difficulty |
 | ------- | ------- |
