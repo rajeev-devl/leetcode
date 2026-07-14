@@ -8,6 +8,7 @@
 | [0035-search-insert-position](https://github.com/rajeev-devl/leetcode/tree/main/0035-search-insert-position/) | Easy |
 | [0066-plus-one](https://github.com/rajeev-devl/leetcode/tree/main/LeetCode/Easy/0066-plus-one/) | Easy |
 | [0074-search-a-2d-matrix](https://github.com/rajeev-devl/leetcode/tree/main/LeetCode/Medium/0074-search-a-2d-matrix/) | Medium |
+| [0088-merge-sorted-array](https://github.com/rajeev-devl/leetcode/tree/main/LeetCode/Easy/0088-merge-sorted-array/) | Easy |
 | [0135-candy](https://github.com/rajeev-devl/leetcode/tree/main/LeetCode/Hard/0135-candy/) | Hard |
 | [0217-contains-duplicate](https://github.com/rajeev-devl/leetcode/tree/main/LeetCode/Easy/0217-contains-duplicate/) | Easy |
 | [0240-search-a-2d-matrix-ii](https://github.com/rajeev-devl/leetcode/tree/main/LeetCode/Medium/0240-search-a-2d-matrix-ii/) | Medium |
@@ -38,11 +39,13 @@
 ## Two Pointers
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0088-merge-sorted-array](https://github.com/rajeev-devl/leetcode/tree/main/LeetCode/Easy/0088-merge-sorted-array/) | Easy |
 | [0202-happy-number](https://github.com/rajeev-devl/leetcode/tree/main/LeetCode/Easy/0202-happy-number/) | Easy |
 | [0283-move-zeroes](https://github.com/rajeev-devl/leetcode/tree/main/LeetCode/Easy/0283-move-zeroes/) | Easy |
 ## Sorting
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0088-merge-sorted-array](https://github.com/rajeev-devl/leetcode/tree/main/LeetCode/Easy/0088-merge-sorted-array/) | Easy |
 | [0217-contains-duplicate](https://github.com/rajeev-devl/leetcode/tree/main/LeetCode/Easy/0217-contains-duplicate/) | Easy |
 | [2974-minimum-number-game](https://github.com/rajeev-devl/leetcode/tree/main/LeetCode/Easy/2974-minimum-number-game/) | Easy |
 ## Heap (Priority Queue)
