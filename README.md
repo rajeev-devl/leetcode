@@ -15,6 +15,7 @@
 | [0283-move-zeroes](https://github.com/rajeev-devl/leetcode/tree/main/LeetCode/Easy/0283-move-zeroes/) | Easy |
 | [2078-two-furthest-houses-with-different-colors](https://github.com/rajeev-devl/leetcode/tree/main/LeetCode/Easy/2078-two-furthest-houses-with-different-colors/) | Easy |
 | [2974-minimum-number-game](https://github.com/rajeev-devl/leetcode/tree/main/LeetCode/Easy/2974-minimum-number-game/) | Easy |
+| [3512-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/rajeev-devl/leetcode/tree/main/LeetCode/Easy/3512-minimum-operations-to-make-array-sum-divisible-by-k/) | Easy |
 ## Binary Search
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -35,6 +36,7 @@
 | [0066-plus-one](https://github.com/rajeev-devl/leetcode/tree/main/LeetCode/Easy/0066-plus-one/) | Easy |
 | [0202-happy-number](https://github.com/rajeev-devl/leetcode/tree/main/LeetCode/Easy/0202-happy-number/) | Easy |
 | [1952-three-divisors](https://github.com/rajeev-devl/leetcode/tree/main/LeetCode/Easy/1952-three-divisors/) | Easy |
+| [3512-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/rajeev-devl/leetcode/tree/main/LeetCode/Easy/3512-minimum-operations-to-make-array-sum-divisible-by-k/) | Easy |
 | [3754-concatenate-non-zero-digits-and-multiply-by-sum-i](https://github.com/rajeev-devl/leetcode/tree/main/LeetCode/Easy/3754-concatenate-non-zero-digits-and-multiply-by-sum-i/) | Easy |
 ## Two Pointers
 | Problem Name | Difficulty |
