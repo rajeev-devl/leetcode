@@ -24,6 +24,7 @@
 | [0035-search-insert-position](https://github.com/rajeev-devl/leetcode/tree/main/0035-search-insert-position/) | Easy |
 | [0074-search-a-2d-matrix](https://github.com/rajeev-devl/leetcode/tree/main/LeetCode/Medium/0074-search-a-2d-matrix/) | Medium |
 | [0240-search-a-2d-matrix-ii](https://github.com/rajeev-devl/leetcode/tree/main/LeetCode/Medium/0240-search-a-2d-matrix-ii/) | Medium |
+| [0374-guess-number-higher-or-lower](https://github.com/rajeev-devl/leetcode/tree/main/LeetCode/Easy/0374-guess-number-higher-or-lower/) | Easy |
 ## Hash Table
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -88,4 +89,8 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0240-search-a-2d-matrix-ii](https://github.com/rajeev-devl/leetcode/tree/main/LeetCode/Medium/0240-search-a-2d-matrix-ii/) | Medium |
+## Interactive
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0374-guess-number-higher-or-lower](https://github.com/rajeev-devl/leetcode/tree/main/LeetCode/Easy/0374-guess-number-higher-or-lower/) | Easy |
 <!---LeetCode Topics End-->
