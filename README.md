@@ -16,6 +16,7 @@
 | [2078-two-furthest-houses-with-different-colors](https://github.com/rajeev-devl/leetcode/tree/main/LeetCode/Easy/2078-two-furthest-houses-with-different-colors/) | Easy |
 | [2974-minimum-number-game](https://github.com/rajeev-devl/leetcode/tree/main/LeetCode/Easy/2974-minimum-number-game/) | Easy |
 | [3512-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/rajeev-devl/leetcode/tree/main/LeetCode/Easy/3512-minimum-operations-to-make-array-sum-divisible-by-k/) | Easy |
+| [3867-sum-of-gcd-of-formed-pairs](https://github.com/rajeev-devl/leetcode/tree/main/LeetCode/Medium/3867-sum-of-gcd-of-formed-pairs/) | Medium |
 ## Binary Search
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -39,18 +40,21 @@
 | [3512-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/rajeev-devl/leetcode/tree/main/LeetCode/Easy/3512-minimum-operations-to-make-array-sum-divisible-by-k/) | Easy |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/rajeev-devl/leetcode/tree/main/LeetCode/Easy/3658-gcd-of-odd-and-even-sums/) | Easy |
 | [3754-concatenate-non-zero-digits-and-multiply-by-sum-i](https://github.com/rajeev-devl/leetcode/tree/main/LeetCode/Easy/3754-concatenate-non-zero-digits-and-multiply-by-sum-i/) | Easy |
+| [3867-sum-of-gcd-of-formed-pairs](https://github.com/rajeev-devl/leetcode/tree/main/LeetCode/Medium/3867-sum-of-gcd-of-formed-pairs/) | Medium |
 ## Two Pointers
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0088-merge-sorted-array](https://github.com/rajeev-devl/leetcode/tree/main/LeetCode/Easy/0088-merge-sorted-array/) | Easy |
 | [0202-happy-number](https://github.com/rajeev-devl/leetcode/tree/main/LeetCode/Easy/0202-happy-number/) | Easy |
 | [0283-move-zeroes](https://github.com/rajeev-devl/leetcode/tree/main/LeetCode/Easy/0283-move-zeroes/) | Easy |
+| [3867-sum-of-gcd-of-formed-pairs](https://github.com/rajeev-devl/leetcode/tree/main/LeetCode/Medium/3867-sum-of-gcd-of-formed-pairs/) | Medium |
 ## Sorting
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0088-merge-sorted-array](https://github.com/rajeev-devl/leetcode/tree/main/LeetCode/Easy/0088-merge-sorted-array/) | Easy |
 | [0217-contains-duplicate](https://github.com/rajeev-devl/leetcode/tree/main/LeetCode/Easy/0217-contains-duplicate/) | Easy |
 | [2974-minimum-number-game](https://github.com/rajeev-devl/leetcode/tree/main/LeetCode/Easy/2974-minimum-number-game/) | Easy |
+| [3867-sum-of-gcd-of-formed-pairs](https://github.com/rajeev-devl/leetcode/tree/main/LeetCode/Medium/3867-sum-of-gcd-of-formed-pairs/) | Medium |
 ## Heap (Priority Queue)
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -59,6 +63,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [2974-minimum-number-game](https://github.com/rajeev-devl/leetcode/tree/main/LeetCode/Easy/2974-minimum-number-game/) | Easy |
+| [3867-sum-of-gcd-of-formed-pairs](https://github.com/rajeev-devl/leetcode/tree/main/LeetCode/Medium/3867-sum-of-gcd-of-formed-pairs/) | Medium |
 ## Greedy
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -73,6 +78,7 @@
 | ------- | ------- |
 | [1952-three-divisors](https://github.com/rajeev-devl/leetcode/tree/main/LeetCode/Easy/1952-three-divisors/) | Easy |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/rajeev-devl/leetcode/tree/main/LeetCode/Easy/3658-gcd-of-odd-and-even-sums/) | Easy |
+| [3867-sum-of-gcd-of-formed-pairs](https://github.com/rajeev-devl/leetcode/tree/main/LeetCode/Medium/3867-sum-of-gcd-of-formed-pairs/) | Medium |
 ## Matrix
 | Problem Name | Difficulty |
 | ------- | ------- |
