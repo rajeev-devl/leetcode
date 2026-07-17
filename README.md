@@ -37,6 +37,7 @@
 | [0009-palindrome-number](https://github.com/rajeev-devl/leetcode/tree/main/LeetCode/Easy/0009-palindrome-number/) | Easy |
 | [0066-plus-one](https://github.com/rajeev-devl/leetcode/tree/main/LeetCode/Easy/0066-plus-one/) | Easy |
 | [0202-happy-number](https://github.com/rajeev-devl/leetcode/tree/main/LeetCode/Easy/0202-happy-number/) | Easy |
+| [1025-divisor-game](https://github.com/rajeev-devl/leetcode/tree/main/LeetCode/Easy/1025-divisor-game/) | Easy |
 | [1952-three-divisors](https://github.com/rajeev-devl/leetcode/tree/main/LeetCode/Easy/1952-three-divisors/) | Easy |
 | [3512-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/rajeev-devl/leetcode/tree/main/LeetCode/Easy/3512-minimum-operations-to-make-array-sum-divisible-by-k/) | Easy |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/rajeev-devl/leetcode/tree/main/LeetCode/Easy/3658-gcd-of-odd-and-even-sums/) | Easy |
@@ -93,4 +94,16 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0374-guess-number-higher-or-lower](https://github.com/rajeev-devl/leetcode/tree/main/LeetCode/Easy/0374-guess-number-higher-or-lower/) | Easy |
+## Dynamic Programming
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1025-divisor-game](https://github.com/rajeev-devl/leetcode/tree/main/LeetCode/Easy/1025-divisor-game/) | Easy |
+## Brainteaser
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1025-divisor-game](https://github.com/rajeev-devl/leetcode/tree/main/LeetCode/Easy/1025-divisor-game/) | Easy |
+## Game Theory
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1025-divisor-game](https://github.com/rajeev-devl/leetcode/tree/main/LeetCode/Easy/1025-divisor-game/) | Easy |
 <!---LeetCode Topics End-->
