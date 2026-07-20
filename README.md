@@ -18,6 +18,7 @@
 | [2974-minimum-number-game](https://github.com/rajeev-devl/leetcode/tree/main/LeetCode/Easy/2974-minimum-number-game/) | Easy |
 | [3512-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/rajeev-devl/leetcode/tree/main/LeetCode/Easy/3512-minimum-operations-to-make-array-sum-divisible-by-k/) | Easy |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/rajeev-devl/leetcode/tree/main/LeetCode/Medium/3867-sum-of-gcd-of-formed-pairs/) | Medium |
+| [3895-count-digit-appearances](https://github.com/rajeev-devl/leetcode/tree/main/LeetCode/Medium/3895-count-digit-appearances/) | Medium |
 ## Binary Search
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -49,6 +50,7 @@
 | [3658-gcd-of-odd-and-even-sums](https://github.com/rajeev-devl/leetcode/tree/main/LeetCode/Easy/3658-gcd-of-odd-and-even-sums/) | Easy |
 | [3754-concatenate-non-zero-digits-and-multiply-by-sum-i](https://github.com/rajeev-devl/leetcode/tree/main/LeetCode/Easy/3754-concatenate-non-zero-digits-and-multiply-by-sum-i/) | Easy |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/rajeev-devl/leetcode/tree/main/LeetCode/Medium/3867-sum-of-gcd-of-formed-pairs/) | Medium |
+| [3895-count-digit-appearances](https://github.com/rajeev-devl/leetcode/tree/main/LeetCode/Medium/3895-count-digit-appearances/) | Medium |
 ## Two Pointers
 | Problem Name | Difficulty |
 | ------- | ------- |
