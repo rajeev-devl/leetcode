@@ -49,6 +49,7 @@
 | [2119-a-number-after-a-double-reversal](https://github.com/rajeev-devl/leetcode/tree/main/LeetCode/Easy/2119-a-number-after-a-double-reversal/) | Easy |
 | [2520-count-the-digits-that-divide-a-number](https://github.com/rajeev-devl/leetcode/tree/main/LeetCode/Easy/2520-count-the-digits-that-divide-a-number/) | Easy |
 | [2652-sum-multiples](https://github.com/rajeev-devl/leetcode/tree/main/LeetCode/Easy/2652-sum-multiples/) | Easy |
+| [3099-harshad-number](https://github.com/rajeev-devl/leetcode/tree/main/LeetCode/Easy/3099-harshad-number/) | Easy |
 | [3512-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/rajeev-devl/leetcode/tree/main/LeetCode/Easy/3512-minimum-operations-to-make-array-sum-divisible-by-k/) | Easy |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/rajeev-devl/leetcode/tree/main/LeetCode/Easy/3658-gcd-of-odd-and-even-sums/) | Easy |
 | [3726-remove-zeros-in-decimal-representation](https://github.com/rajeev-devl/leetcode/tree/main/LeetCode/Easy/3726-remove-zeros-in-decimal-representation/) | Easy |
