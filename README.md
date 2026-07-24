@@ -16,6 +16,7 @@
 | [0283-move-zeroes](https://github.com/rajeev-devl/leetcode/tree/main/LeetCode/Easy/0283-move-zeroes/) | Easy |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/rajeev-devl/leetcode/tree/main/LeetCode/Easy/1979-find-greatest-common-divisor-of-array/) | Easy |
 | [2078-two-furthest-houses-with-different-colors](https://github.com/rajeev-devl/leetcode/tree/main/LeetCode/Easy/2078-two-furthest-houses-with-different-colors/) | Easy |
+| [2442-count-number-of-distinct-integers-after-reverse-operations](https://github.com/rajeev-devl/leetcode/tree/main/LeetCode/Medium/2442-count-number-of-distinct-integers-after-reverse-operations/) | Medium |
 | [2974-minimum-number-game](https://github.com/rajeev-devl/leetcode/tree/main/LeetCode/Easy/2974-minimum-number-game/) | Easy |
 | [3512-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/rajeev-devl/leetcode/tree/main/LeetCode/Easy/3512-minimum-operations-to-make-array-sum-divisible-by-k/) | Easy |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/rajeev-devl/leetcode/tree/main/LeetCode/Medium/3867-sum-of-gcd-of-formed-pairs/) | Medium |
@@ -34,6 +35,7 @@
 | ------- | ------- |
 | [0202-happy-number](https://github.com/rajeev-devl/leetcode/tree/main/LeetCode/Easy/0202-happy-number/) | Easy |
 | [0217-contains-duplicate](https://github.com/rajeev-devl/leetcode/tree/main/LeetCode/Easy/0217-contains-duplicate/) | Easy |
+| [2442-count-number-of-distinct-integers-after-reverse-operations](https://github.com/rajeev-devl/leetcode/tree/main/LeetCode/Medium/2442-count-number-of-distinct-integers-after-reverse-operations/) | Medium |
 ## Math
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -47,6 +49,7 @@
 | [1952-three-divisors](https://github.com/rajeev-devl/leetcode/tree/main/LeetCode/Easy/1952-three-divisors/) | Easy |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/rajeev-devl/leetcode/tree/main/LeetCode/Easy/1979-find-greatest-common-divisor-of-array/) | Easy |
 | [2119-a-number-after-a-double-reversal](https://github.com/rajeev-devl/leetcode/tree/main/LeetCode/Easy/2119-a-number-after-a-double-reversal/) | Easy |
+| [2442-count-number-of-distinct-integers-after-reverse-operations](https://github.com/rajeev-devl/leetcode/tree/main/LeetCode/Medium/2442-count-number-of-distinct-integers-after-reverse-operations/) | Medium |
 | [2520-count-the-digits-that-divide-a-number](https://github.com/rajeev-devl/leetcode/tree/main/LeetCode/Easy/2520-count-the-digits-that-divide-a-number/) | Easy |
 | [2652-sum-multiples](https://github.com/rajeev-devl/leetcode/tree/main/LeetCode/Easy/2652-sum-multiples/) | Easy |
 | [3099-harshad-number](https://github.com/rajeev-devl/leetcode/tree/main/LeetCode/Easy/3099-harshad-number/) | Easy |
@@ -126,4 +129,8 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0326-power-of-three](https://github.com/rajeev-devl/leetcode/tree/main/LeetCode/Easy/0326-power-of-three/) | Easy |
+## Counting
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [2442-count-number-of-distinct-integers-after-reverse-operations](https://github.com/rajeev-devl/leetcode/tree/main/LeetCode/Medium/2442-count-number-of-distinct-integers-after-reverse-operations/) | Medium |
 <!---LeetCode Topics End-->
