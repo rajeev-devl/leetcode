@@ -36,6 +36,7 @@
 | [0202-happy-number](https://github.com/rajeev-devl/leetcode/tree/main/LeetCode/Easy/0202-happy-number/) | Easy |
 | [0217-contains-duplicate](https://github.com/rajeev-devl/leetcode/tree/main/LeetCode/Easy/0217-contains-duplicate/) | Easy |
 | [2442-count-number-of-distinct-integers-after-reverse-operations](https://github.com/rajeev-devl/leetcode/tree/main/LeetCode/Medium/2442-count-number-of-distinct-integers-after-reverse-operations/) | Medium |
+| [3945-digit-frequency-score](https://github.com/rajeev-devl/leetcode/tree/main/LeetCode/Easy/3945-digit-frequency-score/) | Easy |
 ## Math
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -59,6 +60,7 @@
 | [3754-concatenate-non-zero-digits-and-multiply-by-sum-i](https://github.com/rajeev-devl/leetcode/tree/main/LeetCode/Easy/3754-concatenate-non-zero-digits-and-multiply-by-sum-i/) | Easy |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/rajeev-devl/leetcode/tree/main/LeetCode/Medium/3867-sum-of-gcd-of-formed-pairs/) | Medium |
 | [3895-count-digit-appearances](https://github.com/rajeev-devl/leetcode/tree/main/LeetCode/Medium/3895-count-digit-appearances/) | Medium |
+| [3945-digit-frequency-score](https://github.com/rajeev-devl/leetcode/tree/main/LeetCode/Easy/3945-digit-frequency-score/) | Easy |
 ## Two Pointers
 | Problem Name | Difficulty |
 | ------- | ------- |
