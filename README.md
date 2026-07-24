@@ -48,6 +48,7 @@
 | [0728-self-dividing-numbers](https://github.com/rajeev-devl/leetcode/tree/main/LeetCode/Easy/0728-self-dividing-numbers/) | Easy |
 | [1025-divisor-game](https://github.com/rajeev-devl/leetcode/tree/main/LeetCode/Easy/1025-divisor-game/) | Easy |
 | [1518-water-bottles](https://github.com/rajeev-devl/leetcode/tree/main/LeetCode/Easy/1518-water-bottles/) | Easy |
+| [1523-count-odd-numbers-in-an-interval-range](https://github.com/rajeev-devl/leetcode/tree/main/LeetCode/Easy/1523-count-odd-numbers-in-an-interval-range/) | Easy |
 | [1952-three-divisors](https://github.com/rajeev-devl/leetcode/tree/main/LeetCode/Easy/1952-three-divisors/) | Easy |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/rajeev-devl/leetcode/tree/main/LeetCode/Easy/1979-find-greatest-common-divisor-of-array/) | Easy |
 | [2119-a-number-after-a-double-reversal](https://github.com/rajeev-devl/leetcode/tree/main/LeetCode/Easy/2119-a-number-after-a-double-reversal/) | Easy |
