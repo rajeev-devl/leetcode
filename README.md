@@ -25,6 +25,7 @@
 | [2078-two-furthest-houses-with-different-colors](https://github.com/rajeev-devl/leetcode/tree/main/LeetCode/Easy/2078-two-furthest-houses-with-different-colors/) | Easy |
 | [2442-count-number-of-distinct-integers-after-reverse-operations](https://github.com/rajeev-devl/leetcode/tree/main/LeetCode/Medium/2442-count-number-of-distinct-integers-after-reverse-operations/) | Medium |
 | [2574-left-and-right-sum-differences](https://github.com/rajeev-devl/leetcode/tree/main/LeetCode/Easy/2574-left-and-right-sum-differences/) | Easy |
+| [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/rajeev-devl/leetcode/tree/main/LeetCode/Easy/2824-count-pairs-whose-sum-is-less-than-target/) | Easy |
 | [2974-minimum-number-game](https://github.com/rajeev-devl/leetcode/tree/main/LeetCode/Easy/2974-minimum-number-game/) | Easy |
 | [3232-find-if-digit-game-can-be-won](https://github.com/rajeev-devl/leetcode/tree/main/LeetCode/Easy/3232-find-if-digit-game-can-be-won/) | Easy |
 | [3512-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/rajeev-devl/leetcode/tree/main/LeetCode/Easy/3512-minimum-operations-to-make-array-sum-divisible-by-k/) | Easy |
@@ -40,6 +41,7 @@
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/rajeev-devl/leetcode/tree/main/LeetCode/Medium/0167-two-sum-ii-input-array-is-sorted/) | Medium |
 | [0240-search-a-2d-matrix-ii](https://github.com/rajeev-devl/leetcode/tree/main/LeetCode/Medium/0240-search-a-2d-matrix-ii/) | Medium |
 | [0374-guess-number-higher-or-lower](https://github.com/rajeev-devl/leetcode/tree/main/LeetCode/Easy/0374-guess-number-higher-or-lower/) | Easy |
+| [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/rajeev-devl/leetcode/tree/main/LeetCode/Easy/2824-count-pairs-whose-sum-is-less-than-target/) | Easy |
 ## Hash Table
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -86,6 +88,7 @@
 | [0202-happy-number](https://github.com/rajeev-devl/leetcode/tree/main/LeetCode/Easy/0202-happy-number/) | Easy |
 | [0283-move-zeroes](https://github.com/rajeev-devl/leetcode/tree/main/LeetCode/Easy/0283-move-zeroes/) | Easy |
 | [0881-boats-to-save-people](https://github.com/rajeev-devl/leetcode/tree/main/LeetCode/Medium/0881-boats-to-save-people/) | Medium |
+| [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/rajeev-devl/leetcode/tree/main/LeetCode/Easy/2824-count-pairs-whose-sum-is-less-than-target/) | Easy |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/rajeev-devl/leetcode/tree/main/LeetCode/Medium/3867-sum-of-gcd-of-formed-pairs/) | Medium |
 ## Sorting
 | Problem Name | Difficulty |
@@ -97,6 +100,7 @@
 | [0628-maximum-product-of-three-numbers](https://github.com/rajeev-devl/leetcode/tree/main/LeetCode/Easy/0628-maximum-product-of-three-numbers/) | Easy |
 | [0881-boats-to-save-people](https://github.com/rajeev-devl/leetcode/tree/main/LeetCode/Medium/0881-boats-to-save-people/) | Medium |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/rajeev-devl/leetcode/tree/main/LeetCode/Easy/1464-maximum-product-of-two-elements-in-an-array/) | Easy |
+| [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/rajeev-devl/leetcode/tree/main/LeetCode/Easy/2824-count-pairs-whose-sum-is-less-than-target/) | Easy |
 | [2974-minimum-number-game](https://github.com/rajeev-devl/leetcode/tree/main/LeetCode/Easy/2974-minimum-number-game/) | Easy |
 | [3536-maximum-product-of-two-digits](https://github.com/rajeev-devl/leetcode/tree/main/LeetCode/Easy/3536-maximum-product-of-two-digits/) | Easy |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/rajeev-devl/leetcode/tree/main/LeetCode/Medium/3867-sum-of-gcd-of-formed-pairs/) | Medium |
