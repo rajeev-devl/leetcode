@@ -92,6 +92,7 @@
 | [1877-minimize-maximum-pair-sum-in-array](https://github.com/rajeev-devl/leetcode/tree/main/LeetCode/Medium/1877-minimize-maximum-pair-sum-in-array/) | Medium |
 | [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/rajeev-devl/leetcode/tree/main/LeetCode/Easy/2824-count-pairs-whose-sum-is-less-than-target/) | Easy |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/rajeev-devl/leetcode/tree/main/LeetCode/Medium/3867-sum-of-gcd-of-formed-pairs/) | Medium |
+| [3884-first-matching-character-from-both-ends](https://github.com/rajeev-devl/leetcode/tree/main/LeetCode/Easy/3884-first-matching-character-from-both-ends/) | Easy |
 ## Sorting
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -185,4 +186,8 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0164-maximum-gap](https://github.com/rajeev-devl/leetcode/tree/main/LeetCode/Medium/0164-maximum-gap/) | Medium |
+## String
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [3884-first-matching-character-from-both-ends](https://github.com/rajeev-devl/leetcode/tree/main/LeetCode/Easy/3884-first-matching-character-from-both-ends/) | Easy |
 <!---LeetCode Topics End-->
