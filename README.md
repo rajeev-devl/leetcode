@@ -31,6 +31,7 @@
 | [2974-minimum-number-game](https://github.com/rajeev-devl/leetcode/tree/main/LeetCode/Easy/2974-minimum-number-game/) | Easy |
 | [3232-find-if-digit-game-can-be-won](https://github.com/rajeev-devl/leetcode/tree/main/LeetCode/Easy/3232-find-if-digit-game-can-be-won/) | Easy |
 | [3512-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/rajeev-devl/leetcode/tree/main/LeetCode/Easy/3512-minimum-operations-to-make-array-sum-divisible-by-k/) | Easy |
+| [3731-find-missing-elements](https://github.com/rajeev-devl/leetcode/tree/main/LeetCode/Easy/3731-find-missing-elements/) | Easy |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/rajeev-devl/leetcode/tree/main/LeetCode/Medium/3867-sum-of-gcd-of-formed-pairs/) | Medium |
 | [3895-count-digit-appearances](https://github.com/rajeev-devl/leetcode/tree/main/LeetCode/Medium/3895-count-digit-appearances/) | Medium |
 | [3925-concatenate-array-with-reverse](https://github.com/rajeev-devl/leetcode/tree/main/LeetCode/Easy/3925-concatenate-array-with-reverse/) | Easy |
@@ -51,6 +52,7 @@
 | [0202-happy-number](https://github.com/rajeev-devl/leetcode/tree/main/LeetCode/Easy/0202-happy-number/) | Easy |
 | [0217-contains-duplicate](https://github.com/rajeev-devl/leetcode/tree/main/LeetCode/Easy/0217-contains-duplicate/) | Easy |
 | [2442-count-number-of-distinct-integers-after-reverse-operations](https://github.com/rajeev-devl/leetcode/tree/main/LeetCode/Medium/2442-count-number-of-distinct-integers-after-reverse-operations/) | Medium |
+| [3731-find-missing-elements](https://github.com/rajeev-devl/leetcode/tree/main/LeetCode/Easy/3731-find-missing-elements/) | Easy |
 | [3945-digit-frequency-score](https://github.com/rajeev-devl/leetcode/tree/main/LeetCode/Easy/3945-digit-frequency-score/) | Easy |
 ## Math
 | Problem Name | Difficulty |
@@ -109,6 +111,7 @@
 | [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/rajeev-devl/leetcode/tree/main/LeetCode/Easy/2824-count-pairs-whose-sum-is-less-than-target/) | Easy |
 | [2974-minimum-number-game](https://github.com/rajeev-devl/leetcode/tree/main/LeetCode/Easy/2974-minimum-number-game/) | Easy |
 | [3536-maximum-product-of-two-digits](https://github.com/rajeev-devl/leetcode/tree/main/LeetCode/Easy/3536-maximum-product-of-two-digits/) | Easy |
+| [3731-find-missing-elements](https://github.com/rajeev-devl/leetcode/tree/main/LeetCode/Easy/3731-find-missing-elements/) | Easy |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/rajeev-devl/leetcode/tree/main/LeetCode/Medium/3867-sum-of-gcd-of-formed-pairs/) | Medium |
 ## Heap (Priority Queue)
 | Problem Name | Difficulty |
