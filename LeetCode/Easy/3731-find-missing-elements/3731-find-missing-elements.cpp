@@ -5,13 +5,13 @@ public:
         int mini = *min_element(nums.begin(),nums.end());
         int maxi = *max_element(nums.begin(),nums.end());
 
-        unordered_map<int , int>arr;
-        for(int i = 0;i<n;i++){
-            arr[nums[i]]++;
-        }
+        unordered_set<int>arr(nums.begin(),nums.end());
+        // for(int i = 0;i<n;i++){
+        //     arr[nums[i]]++;
+        // }
         vector<int>ans;
-        for(int i=mini;i<maxi;i++){
-            if(arr[i]==0){
+        for(int i=mini+1;i<maxi;i++){
+            if(!arr.count(i)){
                 ans.push_back(i);
             }
         }
