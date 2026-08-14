@@ -59,6 +59,7 @@
 | [0217-contains-duplicate](https://github.com/rajeev-devl/leetcode/tree/main/LeetCode/Easy/0217-contains-duplicate/) | Easy |
 | [2442-count-number-of-distinct-integers-after-reverse-operations](https://github.com/rajeev-devl/leetcode/tree/main/LeetCode/Medium/2442-count-number-of-distinct-integers-after-reverse-operations/) | Medium |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/rajeev-devl/leetcode/tree/main/LeetCode/Medium/2958-length-of-longest-subarray-with-at-most-k-frequency/) | Medium |
+| [3090-maximum-length-substring-with-two-occurrences](https://github.com/rajeev-devl/leetcode/tree/main/LeetCode/Easy/3090-maximum-length-substring-with-two-occurrences/) | Easy |
 | [3289-the-two-sneaky-numbers-of-digitville](https://github.com/rajeev-devl/leetcode/tree/main/LeetCode/Easy/3289-the-two-sneaky-numbers-of-digitville/) | Easy |
 | [3731-find-missing-elements](https://github.com/rajeev-devl/leetcode/tree/main/LeetCode/Easy/3731-find-missing-elements/) | Easy |
 | [3945-digit-frequency-score](https://github.com/rajeev-devl/leetcode/tree/main/LeetCode/Easy/3945-digit-frequency-score/) | Easy |
@@ -215,11 +216,13 @@
 | [0412-fizz-buzz](https://github.com/rajeev-devl/leetcode/tree/main/LeetCode/Easy/0412-fizz-buzz/) | Easy |
 | [1108-defanging-an-ip-address](https://github.com/rajeev-devl/leetcode/tree/main/LeetCode/Easy/1108-defanging-an-ip-address/) | Easy |
 | [1154-day-of-the-year](https://github.com/rajeev-devl/leetcode/tree/main/LeetCode/Easy/1154-day-of-the-year/) | Easy |
+| [3090-maximum-length-substring-with-two-occurrences](https://github.com/rajeev-devl/leetcode/tree/main/LeetCode/Easy/3090-maximum-length-substring-with-two-occurrences/) | Easy |
 | [3258-count-substrings-that-satisfy-k-constraint-i](https://github.com/rajeev-devl/leetcode/tree/main/LeetCode/Easy/3258-count-substrings-that-satisfy-k-constraint-i/) | Easy |
 | [3884-first-matching-character-from-both-ends](https://github.com/rajeev-devl/leetcode/tree/main/LeetCode/Easy/3884-first-matching-character-from-both-ends/) | Easy |
 ## Sliding Window
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/rajeev-devl/leetcode/tree/main/LeetCode/Medium/2958-length-of-longest-subarray-with-at-most-k-frequency/) | Medium |
+| [3090-maximum-length-substring-with-two-occurrences](https://github.com/rajeev-devl/leetcode/tree/main/LeetCode/Easy/3090-maximum-length-substring-with-two-occurrences/) | Easy |
 | [3258-count-substrings-that-satisfy-k-constraint-i](https://github.com/rajeev-devl/leetcode/tree/main/LeetCode/Easy/3258-count-substrings-that-satisfy-k-constraint-i/) | Easy |
 <!---LeetCode Topics End-->
