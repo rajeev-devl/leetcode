@@ -107,6 +107,7 @@
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/rajeev-devl/leetcode/tree/main/LeetCode/Medium/0167-two-sum-ii-input-array-is-sorted/) | Medium |
 | [0202-happy-number](https://github.com/rajeev-devl/leetcode/tree/main/LeetCode/Easy/0202-happy-number/) | Easy |
 | [0283-move-zeroes](https://github.com/rajeev-devl/leetcode/tree/main/LeetCode/Easy/0283-move-zeroes/) | Easy |
+| [0344-reverse-string](https://github.com/rajeev-devl/leetcode/tree/main/LeetCode/Easy/0344-reverse-string/) | Easy |
 | [0881-boats-to-save-people](https://github.com/rajeev-devl/leetcode/tree/main/LeetCode/Medium/0881-boats-to-save-people/) | Medium |
 | [1877-minimize-maximum-pair-sum-in-array](https://github.com/rajeev-devl/leetcode/tree/main/LeetCode/Medium/1877-minimize-maximum-pair-sum-in-array/) | Medium |
 | [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/rajeev-devl/leetcode/tree/main/LeetCode/Easy/2824-count-pairs-whose-sum-is-less-than-target/) | Easy |
@@ -214,6 +215,7 @@
 ## String
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0344-reverse-string](https://github.com/rajeev-devl/leetcode/tree/main/LeetCode/Easy/0344-reverse-string/) | Easy |
 | [0412-fizz-buzz](https://github.com/rajeev-devl/leetcode/tree/main/LeetCode/Easy/0412-fizz-buzz/) | Easy |
 | [1108-defanging-an-ip-address](https://github.com/rajeev-devl/leetcode/tree/main/LeetCode/Easy/1108-defanging-an-ip-address/) | Easy |
 | [1154-day-of-the-year](https://github.com/rajeev-devl/leetcode/tree/main/LeetCode/Easy/1154-day-of-the-year/) | Easy |
