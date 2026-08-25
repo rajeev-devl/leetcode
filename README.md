@@ -38,6 +38,7 @@
 | [3289-the-two-sneaky-numbers-of-digitville](https://github.com/rajeev-devl/leetcode/tree/main/LeetCode/Easy/3289-the-two-sneaky-numbers-of-digitville/) | Easy |
 | [3512-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/rajeev-devl/leetcode/tree/main/LeetCode/Easy/3512-minimum-operations-to-make-array-sum-divisible-by-k/) | Easy |
 | [3702-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/rajeev-devl/leetcode/tree/main/LeetCode/Medium/3702-longest-subsequence-with-non-zero-bitwise-xor/) | Medium |
+| [3718-smallest-missing-multiple-of-k](https://github.com/rajeev-devl/leetcode/tree/main/LeetCode/Easy/3718-smallest-missing-multiple-of-k/) | Easy |
 | [3731-find-missing-elements](https://github.com/rajeev-devl/leetcode/tree/main/LeetCode/Easy/3731-find-missing-elements/) | Easy |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/rajeev-devl/leetcode/tree/main/LeetCode/Medium/3867-sum-of-gcd-of-formed-pairs/) | Medium |
 | [3895-count-digit-appearances](https://github.com/rajeev-devl/leetcode/tree/main/LeetCode/Medium/3895-count-digit-appearances/) | Medium |
@@ -65,6 +66,7 @@
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/rajeev-devl/leetcode/tree/main/LeetCode/Medium/2958-length-of-longest-subarray-with-at-most-k-frequency/) | Medium |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/rajeev-devl/leetcode/tree/main/LeetCode/Easy/3090-maximum-length-substring-with-two-occurrences/) | Easy |
 | [3289-the-two-sneaky-numbers-of-digitville](https://github.com/rajeev-devl/leetcode/tree/main/LeetCode/Easy/3289-the-two-sneaky-numbers-of-digitville/) | Easy |
+| [3718-smallest-missing-multiple-of-k](https://github.com/rajeev-devl/leetcode/tree/main/LeetCode/Easy/3718-smallest-missing-multiple-of-k/) | Easy |
 | [3731-find-missing-elements](https://github.com/rajeev-devl/leetcode/tree/main/LeetCode/Easy/3731-find-missing-elements/) | Easy |
 | [3945-digit-frequency-score](https://github.com/rajeev-devl/leetcode/tree/main/LeetCode/Easy/3945-digit-frequency-score/) | Easy |
 ## Math
