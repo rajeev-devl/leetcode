@@ -28,6 +28,7 @@
 | [1877-minimize-maximum-pair-sum-in-array](https://github.com/rajeev-devl/leetcode/tree/main/LeetCode/Medium/1877-minimize-maximum-pair-sum-in-array/) | Medium |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/rajeev-devl/leetcode/tree/main/LeetCode/Easy/1979-find-greatest-common-divisor-of-array/) | Easy |
 | [2078-two-furthest-houses-with-different-colors](https://github.com/rajeev-devl/leetcode/tree/main/LeetCode/Easy/2078-two-furthest-houses-with-different-colors/) | Easy |
+| [2091-removing-minimum-and-maximum-from-array](https://github.com/rajeev-devl/leetcode/tree/main/LeetCode/Medium/2091-removing-minimum-and-maximum-from-array/) | Medium |
 | [2442-count-number-of-distinct-integers-after-reverse-operations](https://github.com/rajeev-devl/leetcode/tree/main/LeetCode/Medium/2442-count-number-of-distinct-integers-after-reverse-operations/) | Medium |
 | [2455-average-value-of-even-numbers-that-are-divisible-by-three](https://github.com/rajeev-devl/leetcode/tree/main/LeetCode/Easy/2455-average-value-of-even-numbers-that-are-divisible-by-three/) | Easy |
 | [2574-left-and-right-sum-differences](https://github.com/rajeev-devl/leetcode/tree/main/LeetCode/Easy/2574-left-and-right-sum-differences/) | Easy |
@@ -162,6 +163,7 @@
 | [0881-boats-to-save-people](https://github.com/rajeev-devl/leetcode/tree/main/LeetCode/Medium/0881-boats-to-save-people/) | Medium |
 | [1877-minimize-maximum-pair-sum-in-array](https://github.com/rajeev-devl/leetcode/tree/main/LeetCode/Medium/1877-minimize-maximum-pair-sum-in-array/) | Medium |
 | [2078-two-furthest-houses-with-different-colors](https://github.com/rajeev-devl/leetcode/tree/main/LeetCode/Easy/2078-two-furthest-houses-with-different-colors/) | Easy |
+| [2091-removing-minimum-and-maximum-from-array](https://github.com/rajeev-devl/leetcode/tree/main/LeetCode/Medium/2091-removing-minimum-and-maximum-from-array/) | Medium |
 ## Enumeration
 | Problem Name | Difficulty |
 | ------- | ------- |
