@@ -273,6 +273,7 @@
 | [0771-jewels-and-stones](https://github.com/rajeev-devl/leetcode/tree/main/LeetCode/Easy/0771-jewels-and-stones/) | Easy |
 | [1108-defanging-an-ip-address](https://github.com/rajeev-devl/leetcode/tree/main/LeetCode/Easy/1108-defanging-an-ip-address/) | Easy |
 | [1154-day-of-the-year](https://github.com/rajeev-devl/leetcode/tree/main/LeetCode/Easy/1154-day-of-the-year/) | Easy |
+| [2278-percentage-of-letter-in-string](https://github.com/rajeev-devl/leetcode/tree/main/LeetCode/Easy/2278-percentage-of-letter-in-string/) | Easy |
 | [2351-first-letter-to-appear-twice](https://github.com/rajeev-devl/leetcode/tree/main/LeetCode/Easy/2351-first-letter-to-appear-twice/) | Easy |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/rajeev-devl/leetcode/tree/main/LeetCode/Easy/3090-maximum-length-substring-with-two-occurrences/) | Easy |
 | [3110-score-of-a-string](https://github.com/rajeev-devl/leetcode/tree/main/LeetCode/Easy/3110-score-of-a-string/) | Easy |
