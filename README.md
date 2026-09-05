@@ -71,6 +71,7 @@
 | [0242-valid-anagram](https://github.com/rajeev-devl/leetcode/tree/main/LeetCode/Easy/0242-valid-anagram/) | Easy |
 | [0347-top-k-frequent-elements](https://github.com/rajeev-devl/leetcode/tree/main/LeetCode/Medium/0347-top-k-frequent-elements/) | Medium |
 | [0383-ransom-note](https://github.com/rajeev-devl/leetcode/tree/main/LeetCode/Easy/0383-ransom-note/) | Easy |
+| [0387-first-unique-character-in-a-string](https://github.com/rajeev-devl/leetcode/tree/main/LeetCode/Easy/0387-first-unique-character-in-a-string/) | Easy |
 | [0451-sort-characters-by-frequency](https://github.com/rajeev-devl/leetcode/tree/main/LeetCode/Medium/0451-sort-characters-by-frequency/) | Medium |
 | [0645-set-mismatch](https://github.com/rajeev-devl/leetcode/tree/main/LeetCode/Easy/0645-set-mismatch/) | Easy |
 | [0771-jewels-and-stones](https://github.com/rajeev-devl/leetcode/tree/main/LeetCode/Easy/0771-jewels-and-stones/) | Easy |
@@ -234,6 +235,7 @@
 | [0169-majority-element](https://github.com/rajeev-devl/leetcode/tree/main/LeetCode/Easy/0169-majority-element/) | Easy |
 | [0347-top-k-frequent-elements](https://github.com/rajeev-devl/leetcode/tree/main/LeetCode/Medium/0347-top-k-frequent-elements/) | Medium |
 | [0383-ransom-note](https://github.com/rajeev-devl/leetcode/tree/main/LeetCode/Easy/0383-ransom-note/) | Easy |
+| [0387-first-unique-character-in-a-string](https://github.com/rajeev-devl/leetcode/tree/main/LeetCode/Easy/0387-first-unique-character-in-a-string/) | Easy |
 | [0451-sort-characters-by-frequency](https://github.com/rajeev-devl/leetcode/tree/main/LeetCode/Medium/0451-sort-characters-by-frequency/) | Medium |
 | [2442-count-number-of-distinct-integers-after-reverse-operations](https://github.com/rajeev-devl/leetcode/tree/main/LeetCode/Medium/2442-count-number-of-distinct-integers-after-reverse-operations/) | Medium |
 ## Prefix Sum
@@ -259,6 +261,7 @@
 | [0242-valid-anagram](https://github.com/rajeev-devl/leetcode/tree/main/LeetCode/Easy/0242-valid-anagram/) | Easy |
 | [0344-reverse-string](https://github.com/rajeev-devl/leetcode/tree/main/LeetCode/Easy/0344-reverse-string/) | Easy |
 | [0383-ransom-note](https://github.com/rajeev-devl/leetcode/tree/main/LeetCode/Easy/0383-ransom-note/) | Easy |
+| [0387-first-unique-character-in-a-string](https://github.com/rajeev-devl/leetcode/tree/main/LeetCode/Easy/0387-first-unique-character-in-a-string/) | Easy |
 | [0412-fizz-buzz](https://github.com/rajeev-devl/leetcode/tree/main/LeetCode/Easy/0412-fizz-buzz/) | Easy |
 | [0451-sort-characters-by-frequency](https://github.com/rajeev-devl/leetcode/tree/main/LeetCode/Medium/0451-sort-characters-by-frequency/) | Medium |
 | [0771-jewels-and-stones](https://github.com/rajeev-devl/leetcode/tree/main/LeetCode/Easy/0771-jewels-and-stones/) | Easy |
@@ -295,4 +298,8 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0347-top-k-frequent-elements](https://github.com/rajeev-devl/leetcode/tree/main/LeetCode/Medium/0347-top-k-frequent-elements/) | Medium |
+## Queue
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0387-first-unique-character-in-a-string](https://github.com/rajeev-devl/leetcode/tree/main/LeetCode/Easy/0387-first-unique-character-in-a-string/) | Easy |
 <!---LeetCode Topics End-->
