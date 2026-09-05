@@ -45,6 +45,7 @@
 | [3702-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/rajeev-devl/leetcode/tree/main/LeetCode/Medium/3702-longest-subsequence-with-non-zero-bitwise-xor/) | Medium |
 | [3718-smallest-missing-multiple-of-k](https://github.com/rajeev-devl/leetcode/tree/main/LeetCode/Easy/3718-smallest-missing-multiple-of-k/) | Easy |
 | [3731-find-missing-elements](https://github.com/rajeev-devl/leetcode/tree/main/LeetCode/Easy/3731-find-missing-elements/) | Easy |
+| [3842-toggle-light-bulbs](https://github.com/rajeev-devl/leetcode/tree/main/LeetCode/Easy/3842-toggle-light-bulbs/) | Easy |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/rajeev-devl/leetcode/tree/main/LeetCode/Medium/3867-sum-of-gcd-of-formed-pairs/) | Medium |
 | [3875-construct-uniform-parity-array-i](https://github.com/rajeev-devl/leetcode/tree/main/LeetCode/Easy/3875-construct-uniform-parity-array-i/) | Easy |
 | [3895-count-digit-appearances](https://github.com/rajeev-devl/leetcode/tree/main/LeetCode/Medium/3895-count-digit-appearances/) | Medium |
@@ -82,6 +83,7 @@
 | [3289-the-two-sneaky-numbers-of-digitville](https://github.com/rajeev-devl/leetcode/tree/main/LeetCode/Easy/3289-the-two-sneaky-numbers-of-digitville/) | Easy |
 | [3718-smallest-missing-multiple-of-k](https://github.com/rajeev-devl/leetcode/tree/main/LeetCode/Easy/3718-smallest-missing-multiple-of-k/) | Easy |
 | [3731-find-missing-elements](https://github.com/rajeev-devl/leetcode/tree/main/LeetCode/Easy/3731-find-missing-elements/) | Easy |
+| [3842-toggle-light-bulbs](https://github.com/rajeev-devl/leetcode/tree/main/LeetCode/Easy/3842-toggle-light-bulbs/) | Easy |
 | [3945-digit-frequency-score](https://github.com/rajeev-devl/leetcode/tree/main/LeetCode/Easy/3945-digit-frequency-score/) | Easy |
 ## Math
 | Problem Name | Difficulty |
@@ -156,6 +158,7 @@
 | [2974-minimum-number-game](https://github.com/rajeev-devl/leetcode/tree/main/LeetCode/Easy/2974-minimum-number-game/) | Easy |
 | [3536-maximum-product-of-two-digits](https://github.com/rajeev-devl/leetcode/tree/main/LeetCode/Easy/3536-maximum-product-of-two-digits/) | Easy |
 | [3731-find-missing-elements](https://github.com/rajeev-devl/leetcode/tree/main/LeetCode/Easy/3731-find-missing-elements/) | Easy |
+| [3842-toggle-light-bulbs](https://github.com/rajeev-devl/leetcode/tree/main/LeetCode/Easy/3842-toggle-light-bulbs/) | Easy |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/rajeev-devl/leetcode/tree/main/LeetCode/Medium/3867-sum-of-gcd-of-formed-pairs/) | Medium |
 ## Heap (Priority Queue)
 | Problem Name | Difficulty |
@@ -171,6 +174,7 @@
 | [1518-water-bottles](https://github.com/rajeev-devl/leetcode/tree/main/LeetCode/Easy/1518-water-bottles/) | Easy |
 | [2974-minimum-number-game](https://github.com/rajeev-devl/leetcode/tree/main/LeetCode/Easy/2974-minimum-number-game/) | Easy |
 | [3726-remove-zeros-in-decimal-representation](https://github.com/rajeev-devl/leetcode/tree/main/LeetCode/Easy/3726-remove-zeros-in-decimal-representation/) | Easy |
+| [3842-toggle-light-bulbs](https://github.com/rajeev-devl/leetcode/tree/main/LeetCode/Easy/3842-toggle-light-bulbs/) | Easy |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/rajeev-devl/leetcode/tree/main/LeetCode/Medium/3867-sum-of-gcd-of-formed-pairs/) | Medium |
 | [3925-concatenate-array-with-reverse](https://github.com/rajeev-devl/leetcode/tree/main/LeetCode/Easy/3925-concatenate-array-with-reverse/) | Easy |
 ## Greedy
