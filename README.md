@@ -20,6 +20,7 @@
 | [0217-contains-duplicate](https://github.com/rajeev-devl/leetcode/tree/main/LeetCode/Easy/0217-contains-duplicate/) | Easy |
 | [0240-search-a-2d-matrix-ii](https://github.com/rajeev-devl/leetcode/tree/main/LeetCode/Medium/0240-search-a-2d-matrix-ii/) | Medium |
 | [0283-move-zeroes](https://github.com/rajeev-devl/leetcode/tree/main/LeetCode/Easy/0283-move-zeroes/) | Easy |
+| [0347-top-k-frequent-elements](https://github.com/rajeev-devl/leetcode/tree/main/LeetCode/Medium/0347-top-k-frequent-elements/) | Medium |
 | [0628-maximum-product-of-three-numbers](https://github.com/rajeev-devl/leetcode/tree/main/LeetCode/Easy/0628-maximum-product-of-three-numbers/) | Easy |
 | [0645-set-mismatch](https://github.com/rajeev-devl/leetcode/tree/main/LeetCode/Easy/0645-set-mismatch/) | Easy |
 | [0877-stone-game](https://github.com/rajeev-devl/leetcode/tree/main/LeetCode/Medium/0877-stone-game/) | Medium |
@@ -68,6 +69,7 @@
 | [0202-happy-number](https://github.com/rajeev-devl/leetcode/tree/main/LeetCode/Easy/0202-happy-number/) | Easy |
 | [0217-contains-duplicate](https://github.com/rajeev-devl/leetcode/tree/main/LeetCode/Easy/0217-contains-duplicate/) | Easy |
 | [0242-valid-anagram](https://github.com/rajeev-devl/leetcode/tree/main/LeetCode/Easy/0242-valid-anagram/) | Easy |
+| [0347-top-k-frequent-elements](https://github.com/rajeev-devl/leetcode/tree/main/LeetCode/Medium/0347-top-k-frequent-elements/) | Medium |
 | [0383-ransom-note](https://github.com/rajeev-devl/leetcode/tree/main/LeetCode/Easy/0383-ransom-note/) | Easy |
 | [0645-set-mismatch](https://github.com/rajeev-devl/leetcode/tree/main/LeetCode/Easy/0645-set-mismatch/) | Easy |
 | [0771-jewels-and-stones](https://github.com/rajeev-devl/leetcode/tree/main/LeetCode/Easy/0771-jewels-and-stones/) | Easy |
@@ -140,6 +142,7 @@
 | [0169-majority-element](https://github.com/rajeev-devl/leetcode/tree/main/LeetCode/Easy/0169-majority-element/) | Easy |
 | [0217-contains-duplicate](https://github.com/rajeev-devl/leetcode/tree/main/LeetCode/Easy/0217-contains-duplicate/) | Easy |
 | [0242-valid-anagram](https://github.com/rajeev-devl/leetcode/tree/main/LeetCode/Easy/0242-valid-anagram/) | Easy |
+| [0347-top-k-frequent-elements](https://github.com/rajeev-devl/leetcode/tree/main/LeetCode/Medium/0347-top-k-frequent-elements/) | Medium |
 | [0628-maximum-product-of-three-numbers](https://github.com/rajeev-devl/leetcode/tree/main/LeetCode/Easy/0628-maximum-product-of-three-numbers/) | Easy |
 | [0645-set-mismatch](https://github.com/rajeev-devl/leetcode/tree/main/LeetCode/Easy/0645-set-mismatch/) | Easy |
 | [0881-boats-to-save-people](https://github.com/rajeev-devl/leetcode/tree/main/LeetCode/Medium/0881-boats-to-save-people/) | Medium |
@@ -153,6 +156,7 @@
 ## Heap (Priority Queue)
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0347-top-k-frequent-elements](https://github.com/rajeev-devl/leetcode/tree/main/LeetCode/Medium/0347-top-k-frequent-elements/) | Medium |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/rajeev-devl/leetcode/tree/main/LeetCode/Easy/1464-maximum-product-of-two-elements-in-an-array/) | Easy |
 | [2974-minimum-number-game](https://github.com/rajeev-devl/leetcode/tree/main/LeetCode/Easy/2974-minimum-number-game/) | Easy |
 ## Simulation
@@ -195,6 +199,7 @@
 | ------- | ------- |
 | [0169-majority-element](https://github.com/rajeev-devl/leetcode/tree/main/LeetCode/Easy/0169-majority-element/) | Easy |
 | [0240-search-a-2d-matrix-ii](https://github.com/rajeev-devl/leetcode/tree/main/LeetCode/Medium/0240-search-a-2d-matrix-ii/) | Medium |
+| [0347-top-k-frequent-elements](https://github.com/rajeev-devl/leetcode/tree/main/LeetCode/Medium/0347-top-k-frequent-elements/) | Medium |
 ## Interactive
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -224,6 +229,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0169-majority-element](https://github.com/rajeev-devl/leetcode/tree/main/LeetCode/Easy/0169-majority-element/) | Easy |
+| [0347-top-k-frequent-elements](https://github.com/rajeev-devl/leetcode/tree/main/LeetCode/Medium/0347-top-k-frequent-elements/) | Medium |
 | [0383-ransom-note](https://github.com/rajeev-devl/leetcode/tree/main/LeetCode/Easy/0383-ransom-note/) | Easy |
 | [2442-count-number-of-distinct-integers-after-reverse-operations](https://github.com/rajeev-devl/leetcode/tree/main/LeetCode/Medium/2442-count-number-of-distinct-integers-after-reverse-operations/) | Medium |
 ## Prefix Sum
@@ -235,6 +241,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0164-maximum-gap](https://github.com/rajeev-devl/leetcode/tree/main/LeetCode/Medium/0164-maximum-gap/) | Medium |
+| [0347-top-k-frequent-elements](https://github.com/rajeev-devl/leetcode/tree/main/LeetCode/Medium/0347-top-k-frequent-elements/) | Medium |
 ## Radix Sort
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -278,4 +285,8 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0292-nim-game](https://github.com/rajeev-devl/leetcode/tree/main/LeetCode/Easy/0292-nim-game/) | Easy |
+## Quickselect
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0347-top-k-frequent-elements](https://github.com/rajeev-devl/leetcode/tree/main/LeetCode/Medium/0347-top-k-frequent-elements/) | Medium |
 <!---LeetCode Topics End-->
