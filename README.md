@@ -95,6 +95,7 @@
 | [3289-the-two-sneaky-numbers-of-digitville](https://github.com/rajeev-devl/leetcode/tree/main/LeetCode/Easy/3289-the-two-sneaky-numbers-of-digitville/) | Easy |
 | [3718-smallest-missing-multiple-of-k](https://github.com/rajeev-devl/leetcode/tree/main/LeetCode/Easy/3718-smallest-missing-multiple-of-k/) | Easy |
 | [3731-find-missing-elements](https://github.com/rajeev-devl/leetcode/tree/main/LeetCode/Easy/3731-find-missing-elements/) | Easy |
+| [3760-maximum-substrings-with-distinct-start](https://github.com/rajeev-devl/leetcode/tree/main/LeetCode/Medium/3760-maximum-substrings-with-distinct-start/) | Medium |
 | [3842-toggle-light-bulbs](https://github.com/rajeev-devl/leetcode/tree/main/LeetCode/Easy/3842-toggle-light-bulbs/) | Easy |
 | [3945-digit-frequency-score](https://github.com/rajeev-devl/leetcode/tree/main/LeetCode/Easy/3945-digit-frequency-score/) | Easy |
 ## Math
@@ -302,6 +303,7 @@
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/rajeev-devl/leetcode/tree/main/LeetCode/Easy/3090-maximum-length-substring-with-two-occurrences/) | Easy |
 | [3110-score-of-a-string](https://github.com/rajeev-devl/leetcode/tree/main/LeetCode/Easy/3110-score-of-a-string/) | Easy |
 | [3258-count-substrings-that-satisfy-k-constraint-i](https://github.com/rajeev-devl/leetcode/tree/main/LeetCode/Easy/3258-count-substrings-that-satisfy-k-constraint-i/) | Easy |
+| [3760-maximum-substrings-with-distinct-start](https://github.com/rajeev-devl/leetcode/tree/main/LeetCode/Medium/3760-maximum-substrings-with-distinct-start/) | Medium |
 | [3884-first-matching-character-from-both-ends](https://github.com/rajeev-devl/leetcode/tree/main/LeetCode/Easy/3884-first-matching-character-from-both-ends/) | Easy |
 ## Sliding Window
 | Problem Name | Difficulty |
