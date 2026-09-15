@@ -120,6 +120,7 @@
 | [1952-three-divisors](https://github.com/rajeev-devl/leetcode/tree/main/LeetCode/Easy/1952-three-divisors/) | Easy |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/rajeev-devl/leetcode/tree/main/LeetCode/Easy/1979-find-greatest-common-divisor-of-array/) | Easy |
 | [2119-a-number-after-a-double-reversal](https://github.com/rajeev-devl/leetcode/tree/main/LeetCode/Easy/2119-a-number-after-a-double-reversal/) | Easy |
+| [2413-smallest-even-multiple](https://github.com/rajeev-devl/leetcode/tree/main/LeetCode/Easy/2413-smallest-even-multiple/) | Easy |
 | [2442-count-number-of-distinct-integers-after-reverse-operations](https://github.com/rajeev-devl/leetcode/tree/main/LeetCode/Medium/2442-count-number-of-distinct-integers-after-reverse-operations/) | Medium |
 | [2455-average-value-of-even-numbers-that-are-divisible-by-three](https://github.com/rajeev-devl/leetcode/tree/main/LeetCode/Easy/2455-average-value-of-even-numbers-that-are-divisible-by-three/) | Easy |
 | [2520-count-the-digits-that-divide-a-number](https://github.com/rajeev-devl/leetcode/tree/main/LeetCode/Easy/2520-count-the-digits-that-divide-a-number/) | Easy |
@@ -218,6 +219,7 @@
 | ------- | ------- |
 | [1952-three-divisors](https://github.com/rajeev-devl/leetcode/tree/main/LeetCode/Easy/1952-three-divisors/) | Easy |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/rajeev-devl/leetcode/tree/main/LeetCode/Easy/1979-find-greatest-common-divisor-of-array/) | Easy |
+| [2413-smallest-even-multiple](https://github.com/rajeev-devl/leetcode/tree/main/LeetCode/Easy/2413-smallest-even-multiple/) | Easy |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/rajeev-devl/leetcode/tree/main/LeetCode/Easy/3658-gcd-of-odd-and-even-sums/) | Easy |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/rajeev-devl/leetcode/tree/main/LeetCode/Medium/3867-sum-of-gcd-of-formed-pairs/) | Medium |
 ## Matrix
