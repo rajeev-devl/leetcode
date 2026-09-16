@@ -94,6 +94,7 @@
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/rajeev-devl/leetcode/tree/main/LeetCode/Medium/2958-length-of-longest-subarray-with-at-most-k-frequency/) | Medium |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/rajeev-devl/leetcode/tree/main/LeetCode/Easy/3090-maximum-length-substring-with-two-occurrences/) | Easy |
 | [3289-the-two-sneaky-numbers-of-digitville](https://github.com/rajeev-devl/leetcode/tree/main/LeetCode/Easy/3289-the-two-sneaky-numbers-of-digitville/) | Easy |
+| [3541-find-most-frequent-vowel-and-consonant](https://github.com/rajeev-devl/leetcode/tree/main/LeetCode/Easy/3541-find-most-frequent-vowel-and-consonant/) | Easy |
 | [3718-smallest-missing-multiple-of-k](https://github.com/rajeev-devl/leetcode/tree/main/LeetCode/Easy/3718-smallest-missing-multiple-of-k/) | Easy |
 | [3731-find-missing-elements](https://github.com/rajeev-devl/leetcode/tree/main/LeetCode/Easy/3731-find-missing-elements/) | Easy |
 | [3760-maximum-substrings-with-distinct-start](https://github.com/rajeev-devl/leetcode/tree/main/LeetCode/Medium/3760-maximum-substrings-with-distinct-start/) | Medium |
@@ -271,6 +272,7 @@
 | [0692-top-k-frequent-words](https://github.com/rajeev-devl/leetcode/tree/main/LeetCode/Medium/0692-top-k-frequent-words/) | Medium |
 | [2351-first-letter-to-appear-twice](https://github.com/rajeev-devl/leetcode/tree/main/LeetCode/Easy/2351-first-letter-to-appear-twice/) | Easy |
 | [2442-count-number-of-distinct-integers-after-reverse-operations](https://github.com/rajeev-devl/leetcode/tree/main/LeetCode/Medium/2442-count-number-of-distinct-integers-after-reverse-operations/) | Medium |
+| [3541-find-most-frequent-vowel-and-consonant](https://github.com/rajeev-devl/leetcode/tree/main/LeetCode/Easy/3541-find-most-frequent-vowel-and-consonant/) | Easy |
 ## Prefix Sum
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -308,6 +310,7 @@
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/rajeev-devl/leetcode/tree/main/LeetCode/Easy/3090-maximum-length-substring-with-two-occurrences/) | Easy |
 | [3110-score-of-a-string](https://github.com/rajeev-devl/leetcode/tree/main/LeetCode/Easy/3110-score-of-a-string/) | Easy |
 | [3258-count-substrings-that-satisfy-k-constraint-i](https://github.com/rajeev-devl/leetcode/tree/main/LeetCode/Easy/3258-count-substrings-that-satisfy-k-constraint-i/) | Easy |
+| [3541-find-most-frequent-vowel-and-consonant](https://github.com/rajeev-devl/leetcode/tree/main/LeetCode/Easy/3541-find-most-frequent-vowel-and-consonant/) | Easy |
 | [3760-maximum-substrings-with-distinct-start](https://github.com/rajeev-devl/leetcode/tree/main/LeetCode/Medium/3760-maximum-substrings-with-distinct-start/) | Medium |
 | [3884-first-matching-character-from-both-ends](https://github.com/rajeev-devl/leetcode/tree/main/LeetCode/Easy/3884-first-matching-character-from-both-ends/) | Easy |
 ## Sliding Window
