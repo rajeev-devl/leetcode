@@ -18,6 +18,7 @@
 | [0164-maximum-gap](https://github.com/rajeev-devl/leetcode/tree/main/LeetCode/Medium/0164-maximum-gap/) | Medium |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/rajeev-devl/leetcode/tree/main/LeetCode/Medium/0167-two-sum-ii-input-array-is-sorted/) | Medium |
 | [0169-majority-element](https://github.com/rajeev-devl/leetcode/tree/main/LeetCode/Easy/0169-majority-element/) | Easy |
+| [0189-rotate-array](https://github.com/rajeev-devl/leetcode/tree/main/LeetCode/Medium/0189-rotate-array/) | Medium |
 | [0217-contains-duplicate](https://github.com/rajeev-devl/leetcode/tree/main/LeetCode/Easy/0217-contains-duplicate/) | Easy |
 | [0238-product-of-array-except-self](https://github.com/rajeev-devl/leetcode/tree/main/LeetCode/Medium/0238-product-of-array-except-self/) | Medium |
 | [0240-search-a-2d-matrix-ii](https://github.com/rajeev-devl/leetcode/tree/main/LeetCode/Medium/0240-search-a-2d-matrix-ii/) | Medium |
@@ -107,6 +108,7 @@
 | [0007-reverse-integer](https://github.com/rajeev-devl/leetcode/tree/main/LeetCode/Medium/0007-reverse-integer/) | Medium |
 | [0009-palindrome-number](https://github.com/rajeev-devl/leetcode/tree/main/LeetCode/Easy/0009-palindrome-number/) | Easy |
 | [0066-plus-one](https://github.com/rajeev-devl/leetcode/tree/main/LeetCode/Easy/0066-plus-one/) | Easy |
+| [0189-rotate-array](https://github.com/rajeev-devl/leetcode/tree/main/LeetCode/Medium/0189-rotate-array/) | Medium |
 | [0202-happy-number](https://github.com/rajeev-devl/leetcode/tree/main/LeetCode/Easy/0202-happy-number/) | Easy |
 | [0292-nim-game](https://github.com/rajeev-devl/leetcode/tree/main/LeetCode/Easy/0292-nim-game/) | Easy |
 | [0326-power-of-three](https://github.com/rajeev-devl/leetcode/tree/main/LeetCode/Easy/0326-power-of-three/) | Easy |
@@ -148,6 +150,7 @@
 | [0088-merge-sorted-array](https://github.com/rajeev-devl/leetcode/tree/main/LeetCode/Easy/0088-merge-sorted-array/) | Easy |
 | [0125-valid-palindrome](https://github.com/rajeev-devl/leetcode/tree/main/LeetCode/Easy/0125-valid-palindrome/) | Easy |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/rajeev-devl/leetcode/tree/main/LeetCode/Medium/0167-two-sum-ii-input-array-is-sorted/) | Medium |
+| [0189-rotate-array](https://github.com/rajeev-devl/leetcode/tree/main/LeetCode/Medium/0189-rotate-array/) | Medium |
 | [0202-happy-number](https://github.com/rajeev-devl/leetcode/tree/main/LeetCode/Easy/0202-happy-number/) | Easy |
 | [0283-move-zeroes](https://github.com/rajeev-devl/leetcode/tree/main/LeetCode/Easy/0283-move-zeroes/) | Easy |
 | [0344-reverse-string](https://github.com/rajeev-devl/leetcode/tree/main/LeetCode/Easy/0344-reverse-string/) | Easy |
