@@ -36,6 +36,7 @@
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/rajeev-devl/leetcode/tree/main/LeetCode/Easy/1464-maximum-product-of-two-elements-in-an-array/) | Easy |
 | [1636-sort-array-by-increasing-frequency](https://github.com/rajeev-devl/leetcode/tree/main/LeetCode/Easy/1636-sort-array-by-increasing-frequency/) | Easy |
 | [1732-find-the-highest-altitude](https://github.com/rajeev-devl/leetcode/tree/main/LeetCode/Easy/1732-find-the-highest-altitude/) | Easy |
+| [1752-check-if-array-is-sorted-and-rotated](https://github.com/rajeev-devl/leetcode/tree/main/LeetCode/Easy/1752-check-if-array-is-sorted-and-rotated/) | Easy |
 | [1822-sign-of-the-product-of-an-array](https://github.com/rajeev-devl/leetcode/tree/main/LeetCode/Easy/1822-sign-of-the-product-of-an-array/) | Easy |
 | [1877-minimize-maximum-pair-sum-in-array](https://github.com/rajeev-devl/leetcode/tree/main/LeetCode/Medium/1877-minimize-maximum-pair-sum-in-array/) | Medium |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/rajeev-devl/leetcode/tree/main/LeetCode/Easy/1979-find-greatest-common-divisor-of-array/) | Easy |
