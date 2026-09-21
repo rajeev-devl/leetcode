@@ -55,6 +55,7 @@
 | [3702-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/rajeev-devl/leetcode/tree/main/LeetCode/Medium/3702-longest-subsequence-with-non-zero-bitwise-xor/) | Medium |
 | [3718-smallest-missing-multiple-of-k](https://github.com/rajeev-devl/leetcode/tree/main/LeetCode/Easy/3718-smallest-missing-multiple-of-k/) | Easy |
 | [3731-find-missing-elements](https://github.com/rajeev-devl/leetcode/tree/main/LeetCode/Easy/3731-find-missing-elements/) | Easy |
+| [3838-weighted-word-mapping](https://github.com/rajeev-devl/leetcode/tree/main/LeetCode/Easy/3838-weighted-word-mapping/) | Easy |
 | [3842-toggle-light-bulbs](https://github.com/rajeev-devl/leetcode/tree/main/LeetCode/Easy/3842-toggle-light-bulbs/) | Easy |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/rajeev-devl/leetcode/tree/main/LeetCode/Medium/3867-sum-of-gcd-of-formed-pairs/) | Medium |
 | [3875-construct-uniform-parity-array-i](https://github.com/rajeev-devl/leetcode/tree/main/LeetCode/Easy/3875-construct-uniform-parity-array-i/) | Easy |
@@ -206,6 +207,7 @@
 | [2974-minimum-number-game](https://github.com/rajeev-devl/leetcode/tree/main/LeetCode/Easy/2974-minimum-number-game/) | Easy |
 | [3498-reverse-degree-of-a-string](https://github.com/rajeev-devl/leetcode/tree/main/LeetCode/Easy/3498-reverse-degree-of-a-string/) | Easy |
 | [3726-remove-zeros-in-decimal-representation](https://github.com/rajeev-devl/leetcode/tree/main/LeetCode/Easy/3726-remove-zeros-in-decimal-representation/) | Easy |
+| [3838-weighted-word-mapping](https://github.com/rajeev-devl/leetcode/tree/main/LeetCode/Easy/3838-weighted-word-mapping/) | Easy |
 | [3842-toggle-light-bulbs](https://github.com/rajeev-devl/leetcode/tree/main/LeetCode/Easy/3842-toggle-light-bulbs/) | Easy |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/rajeev-devl/leetcode/tree/main/LeetCode/Medium/3867-sum-of-gcd-of-formed-pairs/) | Medium |
 | [3925-concatenate-array-with-reverse](https://github.com/rajeev-devl/leetcode/tree/main/LeetCode/Easy/3925-concatenate-array-with-reverse/) | Easy |
@@ -320,6 +322,7 @@
 | [3498-reverse-degree-of-a-string](https://github.com/rajeev-devl/leetcode/tree/main/LeetCode/Easy/3498-reverse-degree-of-a-string/) | Easy |
 | [3541-find-most-frequent-vowel-and-consonant](https://github.com/rajeev-devl/leetcode/tree/main/LeetCode/Easy/3541-find-most-frequent-vowel-and-consonant/) | Easy |
 | [3760-maximum-substrings-with-distinct-start](https://github.com/rajeev-devl/leetcode/tree/main/LeetCode/Medium/3760-maximum-substrings-with-distinct-start/) | Medium |
+| [3838-weighted-word-mapping](https://github.com/rajeev-devl/leetcode/tree/main/LeetCode/Easy/3838-weighted-word-mapping/) | Easy |
 | [3884-first-matching-character-from-both-ends](https://github.com/rajeev-devl/leetcode/tree/main/LeetCode/Easy/3884-first-matching-character-from-both-ends/) | Easy |
 ## Sliding Window
 | Problem Name | Difficulty |
