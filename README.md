@@ -31,6 +31,7 @@
 | [0692-top-k-frequent-words](https://github.com/rajeev-devl/leetcode/tree/main/LeetCode/Medium/0692-top-k-frequent-words/) | Medium |
 | [0877-stone-game](https://github.com/rajeev-devl/leetcode/tree/main/LeetCode/Medium/0877-stone-game/) | Medium |
 | [0881-boats-to-save-people](https://github.com/rajeev-devl/leetcode/tree/main/LeetCode/Medium/0881-boats-to-save-people/) | Medium |
+| [0912-sort-an-array](https://github.com/rajeev-devl/leetcode/tree/main/LeetCode/Medium/0912-sort-an-array/) | Medium |
 | [0994-rotting-oranges](https://github.com/rajeev-devl/leetcode/tree/main/LeetCode/Medium/0994-rotting-oranges/) | Medium |
 | [1431-kids-with-the-greatest-number-of-candies](https://github.com/rajeev-devl/leetcode/tree/main/LeetCode/Easy/1431-kids-with-the-greatest-number-of-candies/) | Easy |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/rajeev-devl/leetcode/tree/main/LeetCode/Easy/1464-maximum-product-of-two-elements-in-an-array/) | Easy |
@@ -181,6 +182,7 @@
 | [0645-set-mismatch](https://github.com/rajeev-devl/leetcode/tree/main/LeetCode/Easy/0645-set-mismatch/) | Easy |
 | [0692-top-k-frequent-words](https://github.com/rajeev-devl/leetcode/tree/main/LeetCode/Medium/0692-top-k-frequent-words/) | Medium |
 | [0881-boats-to-save-people](https://github.com/rajeev-devl/leetcode/tree/main/LeetCode/Medium/0881-boats-to-save-people/) | Medium |
+| [0912-sort-an-array](https://github.com/rajeev-devl/leetcode/tree/main/LeetCode/Medium/0912-sort-an-array/) | Medium |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/rajeev-devl/leetcode/tree/main/LeetCode/Easy/1464-maximum-product-of-two-elements-in-an-array/) | Easy |
 | [1636-sort-array-by-increasing-frequency](https://github.com/rajeev-devl/leetcode/tree/main/LeetCode/Easy/1636-sort-array-by-increasing-frequency/) | Easy |
 | [1877-minimize-maximum-pair-sum-in-array](https://github.com/rajeev-devl/leetcode/tree/main/LeetCode/Medium/1877-minimize-maximum-pair-sum-in-array/) | Medium |
@@ -196,6 +198,7 @@
 | [0347-top-k-frequent-elements](https://github.com/rajeev-devl/leetcode/tree/main/LeetCode/Medium/0347-top-k-frequent-elements/) | Medium |
 | [0451-sort-characters-by-frequency](https://github.com/rajeev-devl/leetcode/tree/main/LeetCode/Medium/0451-sort-characters-by-frequency/) | Medium |
 | [0692-top-k-frequent-words](https://github.com/rajeev-devl/leetcode/tree/main/LeetCode/Medium/0692-top-k-frequent-words/) | Medium |
+| [0912-sort-an-array](https://github.com/rajeev-devl/leetcode/tree/main/LeetCode/Medium/0912-sort-an-array/) | Medium |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/rajeev-devl/leetcode/tree/main/LeetCode/Easy/1464-maximum-product-of-two-elements-in-an-array/) | Easy |
 | [2974-minimum-number-game](https://github.com/rajeev-devl/leetcode/tree/main/LeetCode/Easy/2974-minimum-number-game/) | Easy |
 ## Simulation
@@ -245,6 +248,7 @@
 | [0169-majority-element](https://github.com/rajeev-devl/leetcode/tree/main/LeetCode/Easy/0169-majority-element/) | Easy |
 | [0240-search-a-2d-matrix-ii](https://github.com/rajeev-devl/leetcode/tree/main/LeetCode/Medium/0240-search-a-2d-matrix-ii/) | Medium |
 | [0347-top-k-frequent-elements](https://github.com/rajeev-devl/leetcode/tree/main/LeetCode/Medium/0347-top-k-frequent-elements/) | Medium |
+| [0912-sort-an-array](https://github.com/rajeev-devl/leetcode/tree/main/LeetCode/Medium/0912-sort-an-array/) | Medium |
 ## Interactive
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -295,10 +299,12 @@
 | [0347-top-k-frequent-elements](https://github.com/rajeev-devl/leetcode/tree/main/LeetCode/Medium/0347-top-k-frequent-elements/) | Medium |
 | [0451-sort-characters-by-frequency](https://github.com/rajeev-devl/leetcode/tree/main/LeetCode/Medium/0451-sort-characters-by-frequency/) | Medium |
 | [0692-top-k-frequent-words](https://github.com/rajeev-devl/leetcode/tree/main/LeetCode/Medium/0692-top-k-frequent-words/) | Medium |
+| [0912-sort-an-array](https://github.com/rajeev-devl/leetcode/tree/main/LeetCode/Medium/0912-sort-an-array/) | Medium |
 ## Radix Sort
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0164-maximum-gap](https://github.com/rajeev-devl/leetcode/tree/main/LeetCode/Medium/0164-maximum-gap/) | Medium |
+| [0912-sort-an-array](https://github.com/rajeev-devl/leetcode/tree/main/LeetCode/Medium/0912-sort-an-array/) | Medium |
 ## String
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -364,4 +370,12 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0994-rotting-oranges](https://github.com/rajeev-devl/leetcode/tree/main/LeetCode/Medium/0994-rotting-oranges/) | Medium |
+## Merge Sort
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0912-sort-an-array](https://github.com/rajeev-devl/leetcode/tree/main/LeetCode/Medium/0912-sort-an-array/) | Medium |
+## Counting Sort
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0912-sort-an-array](https://github.com/rajeev-devl/leetcode/tree/main/LeetCode/Medium/0912-sort-an-array/) | Medium |
 <!---LeetCode Topics End-->
