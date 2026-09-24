@@ -58,6 +58,7 @@
 | [3232-find-if-digit-game-can-be-won](https://github.com/rajeev-devl/leetcode/tree/main/LeetCode/Easy/3232-find-if-digit-game-can-be-won/) | Easy |
 | [3289-the-two-sneaky-numbers-of-digitville](https://github.com/rajeev-devl/leetcode/tree/main/LeetCode/Easy/3289-the-two-sneaky-numbers-of-digitville/) | Easy |
 | [3512-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/rajeev-devl/leetcode/tree/main/LeetCode/Easy/3512-minimum-operations-to-make-array-sum-divisible-by-k/) | Easy |
+| [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/rajeev-devl/leetcode/tree/main/LeetCode/Easy/3550-smallest-index-with-digit-sum-equal-to-index/) | Easy |
 | [3702-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/rajeev-devl/leetcode/tree/main/LeetCode/Medium/3702-longest-subsequence-with-non-zero-bitwise-xor/) | Medium |
 | [3718-smallest-missing-multiple-of-k](https://github.com/rajeev-devl/leetcode/tree/main/LeetCode/Easy/3718-smallest-missing-multiple-of-k/) | Easy |
 | [3731-find-missing-elements](https://github.com/rajeev-devl/leetcode/tree/main/LeetCode/Easy/3731-find-missing-elements/) | Easy |
@@ -146,6 +147,7 @@
 | [3345-smallest-divisible-digit-product-i](https://github.com/rajeev-devl/leetcode/tree/main/LeetCode/Easy/3345-smallest-divisible-digit-product-i/) | Easy |
 | [3512-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/rajeev-devl/leetcode/tree/main/LeetCode/Easy/3512-minimum-operations-to-make-array-sum-divisible-by-k/) | Easy |
 | [3536-maximum-product-of-two-digits](https://github.com/rajeev-devl/leetcode/tree/main/LeetCode/Easy/3536-maximum-product-of-two-digits/) | Easy |
+| [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/rajeev-devl/leetcode/tree/main/LeetCode/Easy/3550-smallest-index-with-digit-sum-equal-to-index/) | Easy |
 | [3622-check-divisibility-by-digit-sum-and-product](https://github.com/rajeev-devl/leetcode/tree/main/LeetCode/Easy/3622-check-divisibility-by-digit-sum-and-product/) | Easy |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/rajeev-devl/leetcode/tree/main/LeetCode/Easy/3658-gcd-of-odd-and-even-sums/) | Easy |
 | [3726-remove-zeros-in-decimal-representation](https://github.com/rajeev-devl/leetcode/tree/main/LeetCode/Easy/3726-remove-zeros-in-decimal-representation/) | Easy |
