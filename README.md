@@ -94,6 +94,7 @@
 | [0049-group-anagrams](https://github.com/rajeev-devl/leetcode/tree/main/LeetCode/Medium/0049-group-anagrams/) | Medium |
 | [0169-majority-element](https://github.com/rajeev-devl/leetcode/tree/main/LeetCode/Easy/0169-majority-element/) | Easy |
 | [0202-happy-number](https://github.com/rajeev-devl/leetcode/tree/main/LeetCode/Easy/0202-happy-number/) | Easy |
+| [0205-isomorphic-strings](https://github.com/rajeev-devl/leetcode/tree/main/LeetCode/Easy/0205-isomorphic-strings/) | Easy |
 | [0217-contains-duplicate](https://github.com/rajeev-devl/leetcode/tree/main/LeetCode/Easy/0217-contains-duplicate/) | Easy |
 | [0242-valid-anagram](https://github.com/rajeev-devl/leetcode/tree/main/LeetCode/Easy/0242-valid-anagram/) | Easy |
 | [0268-missing-number](https://github.com/rajeev-devl/leetcode/tree/main/LeetCode/Easy/0268-missing-number/) | Easy |
@@ -333,6 +334,7 @@
 | ------- | ------- |
 | [0049-group-anagrams](https://github.com/rajeev-devl/leetcode/tree/main/LeetCode/Medium/0049-group-anagrams/) | Medium |
 | [0125-valid-palindrome](https://github.com/rajeev-devl/leetcode/tree/main/LeetCode/Easy/0125-valid-palindrome/) | Easy |
+| [0205-isomorphic-strings](https://github.com/rajeev-devl/leetcode/tree/main/LeetCode/Easy/0205-isomorphic-strings/) | Easy |
 | [0242-valid-anagram](https://github.com/rajeev-devl/leetcode/tree/main/LeetCode/Easy/0242-valid-anagram/) | Easy |
 | [0344-reverse-string](https://github.com/rajeev-devl/leetcode/tree/main/LeetCode/Easy/0344-reverse-string/) | Easy |
 | [0383-ransom-note](https://github.com/rajeev-devl/leetcode/tree/main/LeetCode/Easy/0383-ransom-note/) | Easy |
