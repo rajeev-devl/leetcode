@@ -131,6 +131,7 @@
 | [0292-nim-game](https://github.com/rajeev-devl/leetcode/tree/main/LeetCode/Easy/0292-nim-game/) | Easy |
 | [0326-power-of-three](https://github.com/rajeev-devl/leetcode/tree/main/LeetCode/Easy/0326-power-of-three/) | Easy |
 | [0412-fizz-buzz](https://github.com/rajeev-devl/leetcode/tree/main/LeetCode/Easy/0412-fizz-buzz/) | Easy |
+| [0507-perfect-number](https://github.com/rajeev-devl/leetcode/tree/main/LeetCode/Easy/0507-perfect-number/) | Easy |
 | [0628-maximum-product-of-three-numbers](https://github.com/rajeev-devl/leetcode/tree/main/LeetCode/Easy/0628-maximum-product-of-three-numbers/) | Easy |
 | [0728-self-dividing-numbers](https://github.com/rajeev-devl/leetcode/tree/main/LeetCode/Easy/0728-self-dividing-numbers/) | Easy |
 | [0877-stone-game](https://github.com/rajeev-devl/leetcode/tree/main/LeetCode/Medium/0877-stone-game/) | Medium |
