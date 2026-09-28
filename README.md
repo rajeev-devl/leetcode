@@ -346,6 +346,7 @@
 | [0771-jewels-and-stones](https://github.com/rajeev-devl/leetcode/tree/main/LeetCode/Easy/0771-jewels-and-stones/) | Easy |
 | [1108-defanging-an-ip-address](https://github.com/rajeev-devl/leetcode/tree/main/LeetCode/Easy/1108-defanging-an-ip-address/) | Easy |
 | [1154-day-of-the-year](https://github.com/rajeev-devl/leetcode/tree/main/LeetCode/Easy/1154-day-of-the-year/) | Easy |
+| [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/rajeev-devl/leetcode/tree/main/LeetCode/Easy/1614-maximum-nesting-depth-of-the-parentheses/) | Easy |
 | [2278-percentage-of-letter-in-string](https://github.com/rajeev-devl/leetcode/tree/main/LeetCode/Easy/2278-percentage-of-letter-in-string/) | Easy |
 | [2351-first-letter-to-appear-twice](https://github.com/rajeev-devl/leetcode/tree/main/LeetCode/Easy/2351-first-letter-to-appear-twice/) | Easy |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/rajeev-devl/leetcode/tree/main/LeetCode/Easy/3090-maximum-length-substring-with-two-occurrences/) | Easy |
@@ -406,4 +407,12 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0912-sort-an-array](https://github.com/rajeev-devl/leetcode/tree/main/LeetCode/Medium/0912-sort-an-array/) | Medium |
+## Stack
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/rajeev-devl/leetcode/tree/main/LeetCode/Easy/1614-maximum-nesting-depth-of-the-parentheses/) | Easy |
+## Bracket Sequences
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/rajeev-devl/leetcode/tree/main/LeetCode/Easy/1614-maximum-nesting-depth-of-the-parentheses/) | Easy |
 <!---LeetCode Topics End-->
