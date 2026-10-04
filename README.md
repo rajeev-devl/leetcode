@@ -55,6 +55,7 @@
 | [2161-partition-array-according-to-given-pivot](https://github.com/rajeev-devl/leetcode/tree/main/LeetCode/Medium/2161-partition-array-according-to-given-pivot/) | Medium |
 | [2442-count-number-of-distinct-integers-after-reverse-operations](https://github.com/rajeev-devl/leetcode/tree/main/LeetCode/Medium/2442-count-number-of-distinct-integers-after-reverse-operations/) | Medium |
 | [2455-average-value-of-even-numbers-that-are-divisible-by-three](https://github.com/rajeev-devl/leetcode/tree/main/LeetCode/Easy/2455-average-value-of-even-numbers-that-are-divisible-by-three/) | Easy |
+| [2553-separate-the-digits-in-an-array](https://github.com/rajeev-devl/leetcode/tree/main/LeetCode/Easy/2553-separate-the-digits-in-an-array/) | Easy |
 | [2574-left-and-right-sum-differences](https://github.com/rajeev-devl/leetcode/tree/main/LeetCode/Easy/2574-left-and-right-sum-differences/) | Easy |
 | [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/rajeev-devl/leetcode/tree/main/LeetCode/Easy/2824-count-pairs-whose-sum-is-less-than-target/) | Easy |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/rajeev-devl/leetcode/tree/main/LeetCode/Medium/2958-length-of-longest-subarray-with-at-most-k-frequency/) | Medium |
@@ -233,6 +234,7 @@
 | [0412-fizz-buzz](https://github.com/rajeev-devl/leetcode/tree/main/LeetCode/Easy/0412-fizz-buzz/) | Easy |
 | [1518-water-bottles](https://github.com/rajeev-devl/leetcode/tree/main/LeetCode/Easy/1518-water-bottles/) | Easy |
 | [2161-partition-array-according-to-given-pivot](https://github.com/rajeev-devl/leetcode/tree/main/LeetCode/Medium/2161-partition-array-according-to-given-pivot/) | Medium |
+| [2553-separate-the-digits-in-an-array](https://github.com/rajeev-devl/leetcode/tree/main/LeetCode/Easy/2553-separate-the-digits-in-an-array/) | Easy |
 | [2974-minimum-number-game](https://github.com/rajeev-devl/leetcode/tree/main/LeetCode/Easy/2974-minimum-number-game/) | Easy |
 | [3498-reverse-degree-of-a-string](https://github.com/rajeev-devl/leetcode/tree/main/LeetCode/Easy/3498-reverse-degree-of-a-string/) | Easy |
 | [3726-remove-zeros-in-decimal-representation](https://github.com/rajeev-devl/leetcode/tree/main/LeetCode/Easy/3726-remove-zeros-in-decimal-representation/) | Easy |
