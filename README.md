@@ -360,6 +360,7 @@
 | [0451-sort-characters-by-frequency](https://github.com/rajeev-devl/leetcode/tree/main/LeetCode/Medium/0451-sort-characters-by-frequency/) | Medium |
 | [0692-top-k-frequent-words](https://github.com/rajeev-devl/leetcode/tree/main/LeetCode/Medium/0692-top-k-frequent-words/) | Medium |
 | [0771-jewels-and-stones](https://github.com/rajeev-devl/leetcode/tree/main/LeetCode/Easy/0771-jewels-and-stones/) | Easy |
+| [1021-remove-outermost-parentheses](https://github.com/rajeev-devl/leetcode/tree/main/LeetCode/Easy/1021-remove-outermost-parentheses/) | Easy |
 | [1108-defanging-an-ip-address](https://github.com/rajeev-devl/leetcode/tree/main/LeetCode/Easy/1108-defanging-an-ip-address/) | Easy |
 | [1154-day-of-the-year](https://github.com/rajeev-devl/leetcode/tree/main/LeetCode/Easy/1154-day-of-the-year/) | Easy |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/rajeev-devl/leetcode/tree/main/LeetCode/Easy/1614-maximum-nesting-depth-of-the-parentheses/) | Easy |
@@ -428,11 +429,13 @@
 | ------- | ------- |
 | [0020-valid-parentheses](https://github.com/rajeev-devl/leetcode/tree/main/LeetCode/Easy/0020-valid-parentheses/) | Easy |
 | [0042-trapping-rain-water](https://github.com/rajeev-devl/leetcode/tree/main/LeetCode/Hard/0042-trapping-rain-water/) | Hard |
+| [1021-remove-outermost-parentheses](https://github.com/rajeev-devl/leetcode/tree/main/LeetCode/Easy/1021-remove-outermost-parentheses/) | Easy |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/rajeev-devl/leetcode/tree/main/LeetCode/Easy/1614-maximum-nesting-depth-of-the-parentheses/) | Easy |
 ## Bracket Sequences
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0020-valid-parentheses](https://github.com/rajeev-devl/leetcode/tree/main/LeetCode/Easy/0020-valid-parentheses/) | Easy |
+| [1021-remove-outermost-parentheses](https://github.com/rajeev-devl/leetcode/tree/main/LeetCode/Easy/1021-remove-outermost-parentheses/) | Easy |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/rajeev-devl/leetcode/tree/main/LeetCode/Easy/1614-maximum-nesting-depth-of-the-parentheses/) | Easy |
 ## Monotonic Stack
 | Problem Name | Difficulty |
