@@ -20,6 +20,7 @@
 | [0074-search-a-2d-matrix](https://github.com/rajeev-devl/leetcode/tree/main/LeetCode/Medium/0074-search-a-2d-matrix/) | Medium |
 | [0075-sort-colors](https://github.com/rajeev-devl/leetcode/tree/main/LeetCode/Medium/0075-sort-colors/) | Medium |
 | [0088-merge-sorted-array](https://github.com/rajeev-devl/leetcode/tree/main/LeetCode/Easy/0088-merge-sorted-array/) | Easy |
+| [0128-longest-consecutive-sequence](https://github.com/rajeev-devl/leetcode/tree/main/LeetCode/Medium/0128-longest-consecutive-sequence/) | Medium |
 | [0135-candy](https://github.com/rajeev-devl/leetcode/tree/main/LeetCode/Hard/0135-candy/) | Hard |
 | [0162-find-peak-element](https://github.com/rajeev-devl/leetcode/tree/main/LeetCode/Medium/0162-find-peak-element/) | Medium |
 | [0164-maximum-gap](https://github.com/rajeev-devl/leetcode/tree/main/LeetCode/Medium/0164-maximum-gap/) | Medium |
@@ -99,6 +100,7 @@
 | ------- | ------- |
 | [0001-two-sum](https://github.com/rajeev-devl/leetcode/tree/main/LeetCode/Easy/0001-two-sum/) | Easy |
 | [0049-group-anagrams](https://github.com/rajeev-devl/leetcode/tree/main/LeetCode/Medium/0049-group-anagrams/) | Medium |
+| [0128-longest-consecutive-sequence](https://github.com/rajeev-devl/leetcode/tree/main/LeetCode/Medium/0128-longest-consecutive-sequence/) | Medium |
 | [0169-majority-element](https://github.com/rajeev-devl/leetcode/tree/main/LeetCode/Easy/0169-majority-element/) | Easy |
 | [0202-happy-number](https://github.com/rajeev-devl/leetcode/tree/main/LeetCode/Easy/0202-happy-number/) | Easy |
 | [0205-isomorphic-strings](https://github.com/rajeev-devl/leetcode/tree/main/LeetCode/Easy/0205-isomorphic-strings/) | Easy |
@@ -458,4 +460,8 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0229-majority-element-ii](https://github.com/rajeev-devl/leetcode/tree/main/LeetCode/Medium/0229-majority-element-ii/) | Medium |
+## Union-Find
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0128-longest-consecutive-sequence](https://github.com/rajeev-devl/leetcode/tree/main/LeetCode/Medium/0128-longest-consecutive-sequence/) | Medium |
 <!---LeetCode Topics End-->
