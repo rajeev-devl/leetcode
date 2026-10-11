@@ -2,8 +2,8 @@
 <!---LeetCode Topics Start-->
 # LeetCode Topics
 ## Array
-| Problem Name | Difficulty |
-| ------- | ------- |
+|  |
+| ------- |
 | [0001-two-sum](https://github.com/rajeev-devl/leetcode/tree/main/LeetCode/Easy/0001-two-sum/) | Easy |
 | [0004-median-of-two-sorted-arrays](https://github.com/rajeev-devl/leetcode/tree/main/LeetCode/Hard/0004-median-of-two-sorted-arrays/) | Hard |
 | [0015-3sum](https://github.com/rajeev-devl/leetcode/tree/main/LeetCode/Medium/0015-3sum/) | Medium |
@@ -79,8 +79,8 @@
 | [3895-count-digit-appearances](https://github.com/rajeev-devl/leetcode/tree/main/LeetCode/Medium/3895-count-digit-appearances/) | Medium |
 | [3925-concatenate-array-with-reverse](https://github.com/rajeev-devl/leetcode/tree/main/LeetCode/Easy/3925-concatenate-array-with-reverse/) | Easy |
 ## Binary Search
-| Problem Name | Difficulty |
-| ------- | ------- |
+|  |
+| ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/rajeev-devl/leetcode/tree/main/LeetCode/Hard/0004-median-of-two-sorted-arrays/) | Hard |
 | [0033-search-in-rotated-sorted-array](https://github.com/rajeev-devl/leetcode/tree/main/LeetCode/Medium/0033-search-in-rotated-sorted-array/) | Medium |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/rajeev-devl/leetcode/tree/main/LeetCode/Medium/0034-find-first-and-last-position-of-element-in-sorted-array/) | Medium |
@@ -96,8 +96,8 @@
 | [2089-find-target-indices-after-sorting-array](https://github.com/rajeev-devl/leetcode/tree/main/LeetCode/Easy/2089-find-target-indices-after-sorting-array/) | Easy |
 | [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/rajeev-devl/leetcode/tree/main/LeetCode/Easy/2824-count-pairs-whose-sum-is-less-than-target/) | Easy |
 ## Hash Table
-| Problem Name | Difficulty |
-| ------- | ------- |
+|  |
+| ------- |
 | [0001-two-sum](https://github.com/rajeev-devl/leetcode/tree/main/LeetCode/Easy/0001-two-sum/) | Easy |
 | [0049-group-anagrams](https://github.com/rajeev-devl/leetcode/tree/main/LeetCode/Medium/0049-group-anagrams/) | Medium |
 | [0128-longest-consecutive-sequence](https://github.com/rajeev-devl/leetcode/tree/main/LeetCode/Medium/0128-longest-consecutive-sequence/) | Medium |
@@ -130,8 +130,8 @@
 | [3842-toggle-light-bulbs](https://github.com/rajeev-devl/leetcode/tree/main/LeetCode/Easy/3842-toggle-light-bulbs/) | Easy |
 | [3945-digit-frequency-score](https://github.com/rajeev-devl/leetcode/tree/main/LeetCode/Easy/3945-digit-frequency-score/) | Easy |
 ## Math
-| Problem Name | Difficulty |
-| ------- | ------- |
+|  |
+| ------- |
 | [0007-reverse-integer](https://github.com/rajeev-devl/leetcode/tree/main/LeetCode/Medium/0007-reverse-integer/) | Medium |
 | [0009-palindrome-number](https://github.com/rajeev-devl/leetcode/tree/main/LeetCode/Easy/0009-palindrome-number/) | Easy |
 | [0066-plus-one](https://github.com/rajeev-devl/leetcode/tree/main/LeetCode/Easy/0066-plus-one/) | Easy |
@@ -174,8 +174,8 @@
 | [3895-count-digit-appearances](https://github.com/rajeev-devl/leetcode/tree/main/LeetCode/Medium/3895-count-digit-appearances/) | Medium |
 | [3945-digit-frequency-score](https://github.com/rajeev-devl/leetcode/tree/main/LeetCode/Easy/3945-digit-frequency-score/) | Easy |
 ## Two Pointers
-| Problem Name | Difficulty |
-| ------- | ------- |
+|  |
+| ------- |
 | [0015-3sum](https://github.com/rajeev-devl/leetcode/tree/main/LeetCode/Medium/0015-3sum/) | Medium |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/rajeev-devl/leetcode/tree/main/LeetCode/Easy/0026-remove-duplicates-from-sorted-array/) | Easy |
 | [0031-next-permutation](https://github.com/rajeev-devl/leetcode/tree/main/LeetCode/Medium/0031-next-permutation/) | Medium |
@@ -198,8 +198,8 @@
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/rajeev-devl/leetcode/tree/main/LeetCode/Medium/3867-sum-of-gcd-of-formed-pairs/) | Medium |
 | [3884-first-matching-character-from-both-ends](https://github.com/rajeev-devl/leetcode/tree/main/LeetCode/Easy/3884-first-matching-character-from-both-ends/) | Easy |
 ## Sorting
-| Problem Name | Difficulty |
-| ------- | ------- |
+|  |
+| ------- |
 | [0015-3sum](https://github.com/rajeev-devl/leetcode/tree/main/LeetCode/Medium/0015-3sum/) | Medium |
 | [0049-group-anagrams](https://github.com/rajeev-devl/leetcode/tree/main/LeetCode/Medium/0049-group-anagrams/) | Medium |
 | [0075-sort-colors](https://github.com/rajeev-devl/leetcode/tree/main/LeetCode/Medium/0075-sort-colors/) | Medium |
@@ -231,8 +231,8 @@
 | [3842-toggle-light-bulbs](https://github.com/rajeev-devl/leetcode/tree/main/LeetCode/Easy/3842-toggle-light-bulbs/) | Easy |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/rajeev-devl/leetcode/tree/main/LeetCode/Medium/3867-sum-of-gcd-of-formed-pairs/) | Medium |
 ## Heap (Priority Queue)
-| Problem Name | Difficulty |
-| ------- | ------- |
+|  |
+| ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/rajeev-devl/leetcode/tree/main/LeetCode/Medium/0215-kth-largest-element-in-an-array/) | Medium |
 | [0347-top-k-frequent-elements](https://github.com/rajeev-devl/leetcode/tree/main/LeetCode/Medium/0347-top-k-frequent-elements/) | Medium |
 | [0451-sort-characters-by-frequency](https://github.com/rajeev-devl/leetcode/tree/main/LeetCode/Medium/0451-sort-characters-by-frequency/) | Medium |
@@ -241,8 +241,8 @@
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/rajeev-devl/leetcode/tree/main/LeetCode/Easy/1464-maximum-product-of-two-elements-in-an-array/) | Easy |
 | [2974-minimum-number-game](https://github.com/rajeev-devl/leetcode/tree/main/LeetCode/Easy/2974-minimum-number-game/) | Easy |
 ## Simulation
-| Problem Name | Difficulty |
-| ------- | ------- |
+|  |
+| ------- |
 | [0412-fizz-buzz](https://github.com/rajeev-devl/leetcode/tree/main/LeetCode/Easy/0412-fizz-buzz/) | Easy |
 | [1518-water-bottles](https://github.com/rajeev-devl/leetcode/tree/main/LeetCode/Easy/1518-water-bottles/) | Easy |
 | [2149-rearrange-array-elements-by-sign](https://github.com/rajeev-devl/leetcode/tree/main/LeetCode/Medium/2149-rearrange-array-elements-by-sign/) | Medium |
@@ -256,36 +256,36 @@
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/rajeev-devl/leetcode/tree/main/LeetCode/Medium/3867-sum-of-gcd-of-formed-pairs/) | Medium |
 | [3925-concatenate-array-with-reverse](https://github.com/rajeev-devl/leetcode/tree/main/LeetCode/Easy/3925-concatenate-array-with-reverse/) | Easy |
 ## Greedy
-| Problem Name | Difficulty |
-| ------- | ------- |
+|  |
+| ------- |
 | [0135-candy](https://github.com/rajeev-devl/leetcode/tree/main/LeetCode/Hard/0135-candy/) | Hard |
 | [0881-boats-to-save-people](https://github.com/rajeev-devl/leetcode/tree/main/LeetCode/Medium/0881-boats-to-save-people/) | Medium |
 | [1877-minimize-maximum-pair-sum-in-array](https://github.com/rajeev-devl/leetcode/tree/main/LeetCode/Medium/1877-minimize-maximum-pair-sum-in-array/) | Medium |
 | [2078-two-furthest-houses-with-different-colors](https://github.com/rajeev-devl/leetcode/tree/main/LeetCode/Easy/2078-two-furthest-houses-with-different-colors/) | Easy |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/rajeev-devl/leetcode/tree/main/LeetCode/Medium/2091-removing-minimum-and-maximum-from-array/) | Medium |
 ## Enumeration
-| Problem Name | Difficulty |
-| ------- | ------- |
+|  |
+| ------- |
 | [1952-three-divisors](https://github.com/rajeev-devl/leetcode/tree/main/LeetCode/Easy/1952-three-divisors/) | Easy |
 | [3345-smallest-divisible-digit-product-i](https://github.com/rajeev-devl/leetcode/tree/main/LeetCode/Easy/3345-smallest-divisible-digit-product-i/) | Easy |
 ## Number Theory
-| Problem Name | Difficulty |
-| ------- | ------- |
+|  |
+| ------- |
 | [1952-three-divisors](https://github.com/rajeev-devl/leetcode/tree/main/LeetCode/Easy/1952-three-divisors/) | Easy |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/rajeev-devl/leetcode/tree/main/LeetCode/Easy/1979-find-greatest-common-divisor-of-array/) | Easy |
 | [2413-smallest-even-multiple](https://github.com/rajeev-devl/leetcode/tree/main/LeetCode/Easy/2413-smallest-even-multiple/) | Easy |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/rajeev-devl/leetcode/tree/main/LeetCode/Easy/3658-gcd-of-odd-and-even-sums/) | Easy |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/rajeev-devl/leetcode/tree/main/LeetCode/Medium/3867-sum-of-gcd-of-formed-pairs/) | Medium |
 ## Matrix
-| Problem Name | Difficulty |
-| ------- | ------- |
+|  |
+| ------- |
 | [0064-minimum-path-sum](https://github.com/rajeev-devl/leetcode/tree/main/LeetCode/Medium/0064-minimum-path-sum/) | Medium |
 | [0074-search-a-2d-matrix](https://github.com/rajeev-devl/leetcode/tree/main/LeetCode/Medium/0074-search-a-2d-matrix/) | Medium |
 | [0240-search-a-2d-matrix-ii](https://github.com/rajeev-devl/leetcode/tree/main/LeetCode/Medium/0240-search-a-2d-matrix-ii/) | Medium |
 | [0994-rotting-oranges](https://github.com/rajeev-devl/leetcode/tree/main/LeetCode/Medium/0994-rotting-oranges/) | Medium |
 ## Divide and Conquer
-| Problem Name | Difficulty |
-| ------- | ------- |
+|  |
+| ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/rajeev-devl/leetcode/tree/main/LeetCode/Hard/0004-median-of-two-sorted-arrays/) | Hard |
 | [0053-maximum-subarray](https://github.com/rajeev-devl/leetcode/tree/main/LeetCode/Medium/0053-maximum-subarray/) | Medium |
 | [0169-majority-element](https://github.com/rajeev-devl/leetcode/tree/main/LeetCode/Easy/0169-majority-element/) | Easy |
@@ -294,35 +294,35 @@
 | [0347-top-k-frequent-elements](https://github.com/rajeev-devl/leetcode/tree/main/LeetCode/Medium/0347-top-k-frequent-elements/) | Medium |
 | [0912-sort-an-array](https://github.com/rajeev-devl/leetcode/tree/main/LeetCode/Medium/0912-sort-an-array/) | Medium |
 ## Interactive
-| Problem Name | Difficulty |
-| ------- | ------- |
+|  |
+| ------- |
 | [0374-guess-number-higher-or-lower](https://github.com/rajeev-devl/leetcode/tree/main/LeetCode/Easy/0374-guess-number-higher-or-lower/) | Easy |
 ## Dynamic Programming
-| Problem Name | Difficulty |
-| ------- | ------- |
+|  |
+| ------- |
 | [0042-trapping-rain-water](https://github.com/rajeev-devl/leetcode/tree/main/LeetCode/Hard/0042-trapping-rain-water/) | Hard |
 | [0053-maximum-subarray](https://github.com/rajeev-devl/leetcode/tree/main/LeetCode/Medium/0053-maximum-subarray/) | Medium |
 | [0064-minimum-path-sum](https://github.com/rajeev-devl/leetcode/tree/main/LeetCode/Medium/0064-minimum-path-sum/) | Medium |
 | [0877-stone-game](https://github.com/rajeev-devl/leetcode/tree/main/LeetCode/Medium/0877-stone-game/) | Medium |
 | [1025-divisor-game](https://github.com/rajeev-devl/leetcode/tree/main/LeetCode/Easy/1025-divisor-game/) | Easy |
 ## Brainteaser
-| Problem Name | Difficulty |
-| ------- | ------- |
+|  |
+| ------- |
 | [0292-nim-game](https://github.com/rajeev-devl/leetcode/tree/main/LeetCode/Easy/0292-nim-game/) | Easy |
 | [1025-divisor-game](https://github.com/rajeev-devl/leetcode/tree/main/LeetCode/Easy/1025-divisor-game/) | Easy |
 ## Game Theory
-| Problem Name | Difficulty |
-| ------- | ------- |
+|  |
+| ------- |
 | [0292-nim-game](https://github.com/rajeev-devl/leetcode/tree/main/LeetCode/Easy/0292-nim-game/) | Easy |
 | [0877-stone-game](https://github.com/rajeev-devl/leetcode/tree/main/LeetCode/Medium/0877-stone-game/) | Medium |
 | [1025-divisor-game](https://github.com/rajeev-devl/leetcode/tree/main/LeetCode/Easy/1025-divisor-game/) | Easy |
 ## Recursion
-| Problem Name | Difficulty |
-| ------- | ------- |
+|  |
+| ------- |
 | [0326-power-of-three](https://github.com/rajeev-devl/leetcode/tree/main/LeetCode/Easy/0326-power-of-three/) | Easy |
 ## Counting
-| Problem Name | Difficulty |
-| ------- | ------- |
+|  |
+| ------- |
 | [0169-majority-element](https://github.com/rajeev-devl/leetcode/tree/main/LeetCode/Easy/0169-majority-element/) | Easy |
 | [0229-majority-element-ii](https://github.com/rajeev-devl/leetcode/tree/main/LeetCode/Medium/0229-majority-element-ii/) | Medium |
 | [0347-top-k-frequent-elements](https://github.com/rajeev-devl/leetcode/tree/main/LeetCode/Medium/0347-top-k-frequent-elements/) | Medium |
@@ -334,27 +334,27 @@
 | [2442-count-number-of-distinct-integers-after-reverse-operations](https://github.com/rajeev-devl/leetcode/tree/main/LeetCode/Medium/2442-count-number-of-distinct-integers-after-reverse-operations/) | Medium |
 | [3541-find-most-frequent-vowel-and-consonant](https://github.com/rajeev-devl/leetcode/tree/main/LeetCode/Easy/3541-find-most-frequent-vowel-and-consonant/) | Easy |
 ## Prefix Sum
-| Problem Name | Difficulty |
-| ------- | ------- |
+|  |
+| ------- |
 | [0238-product-of-array-except-self](https://github.com/rajeev-devl/leetcode/tree/main/LeetCode/Medium/0238-product-of-array-except-self/) | Medium |
 | [1732-find-the-highest-altitude](https://github.com/rajeev-devl/leetcode/tree/main/LeetCode/Easy/1732-find-the-highest-altitude/) | Easy |
 | [2574-left-and-right-sum-differences](https://github.com/rajeev-devl/leetcode/tree/main/LeetCode/Easy/2574-left-and-right-sum-differences/) | Easy |
 ## Bucket Sort
-| Problem Name | Difficulty |
-| ------- | ------- |
+|  |
+| ------- |
 | [0164-maximum-gap](https://github.com/rajeev-devl/leetcode/tree/main/LeetCode/Medium/0164-maximum-gap/) | Medium |
 | [0347-top-k-frequent-elements](https://github.com/rajeev-devl/leetcode/tree/main/LeetCode/Medium/0347-top-k-frequent-elements/) | Medium |
 | [0451-sort-characters-by-frequency](https://github.com/rajeev-devl/leetcode/tree/main/LeetCode/Medium/0451-sort-characters-by-frequency/) | Medium |
 | [0692-top-k-frequent-words](https://github.com/rajeev-devl/leetcode/tree/main/LeetCode/Medium/0692-top-k-frequent-words/) | Medium |
 | [0912-sort-an-array](https://github.com/rajeev-devl/leetcode/tree/main/LeetCode/Medium/0912-sort-an-array/) | Medium |
 ## Radix Sort
-| Problem Name | Difficulty |
-| ------- | ------- |
+|  |
+| ------- |
 | [0164-maximum-gap](https://github.com/rajeev-devl/leetcode/tree/main/LeetCode/Medium/0164-maximum-gap/) | Medium |
 | [0912-sort-an-array](https://github.com/rajeev-devl/leetcode/tree/main/LeetCode/Medium/0912-sort-an-array/) | Medium |
 ## String
-| Problem Name | Difficulty |
-| ------- | ------- |
+|  |
+| ------- |
 | [0020-valid-parentheses](https://github.com/rajeev-devl/leetcode/tree/main/LeetCode/Easy/0020-valid-parentheses/) | Easy |
 | [0049-group-anagrams](https://github.com/rajeev-devl/leetcode/tree/main/LeetCode/Medium/0049-group-anagrams/) | Medium |
 | [0125-valid-palindrome](https://github.com/rajeev-devl/leetcode/tree/main/LeetCode/Easy/0125-valid-palindrome/) | Easy |
@@ -382,86 +382,87 @@
 | [3838-weighted-word-mapping](https://github.com/rajeev-devl/leetcode/tree/main/LeetCode/Easy/3838-weighted-word-mapping/) | Easy |
 | [3884-first-matching-character-from-both-ends](https://github.com/rajeev-devl/leetcode/tree/main/LeetCode/Easy/3884-first-matching-character-from-both-ends/) | Easy |
 ## Sliding Window
-| Problem Name | Difficulty |
-| ------- | ------- |
+|  |
+| ------- |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/rajeev-devl/leetcode/tree/main/LeetCode/Medium/2958-length-of-longest-subarray-with-at-most-k-frequency/) | Medium |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/rajeev-devl/leetcode/tree/main/LeetCode/Easy/3090-maximum-length-substring-with-two-occurrences/) | Easy |
 | [3258-count-substrings-that-satisfy-k-constraint-i](https://github.com/rajeev-devl/leetcode/tree/main/LeetCode/Easy/3258-count-substrings-that-satisfy-k-constraint-i/) | Easy |
 ## Bit Manipulation
-| Problem Name | Difficulty |
-| ------- | ------- |
+|  |
+| ------- |
 | [0268-missing-number](https://github.com/rajeev-devl/leetcode/tree/main/LeetCode/Easy/0268-missing-number/) | Easy |
 | [0645-set-mismatch](https://github.com/rajeev-devl/leetcode/tree/main/LeetCode/Easy/0645-set-mismatch/) | Easy |
 | [2351-first-letter-to-appear-twice](https://github.com/rajeev-devl/leetcode/tree/main/LeetCode/Easy/2351-first-letter-to-appear-twice/) | Easy |
 | [3702-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/rajeev-devl/leetcode/tree/main/LeetCode/Medium/3702-longest-subsequence-with-non-zero-bitwise-xor/) | Medium |
 ## Minimax
-| Problem Name | Difficulty |
-| ------- | ------- |
+|  |
+| ------- |
 | [0292-nim-game](https://github.com/rajeev-devl/leetcode/tree/main/LeetCode/Easy/0292-nim-game/) | Easy |
 ## Nim Game
-| Problem Name | Difficulty |
-| ------- | ------- |
+|  |
+| ------- |
 | [0292-nim-game](https://github.com/rajeev-devl/leetcode/tree/main/LeetCode/Easy/0292-nim-game/) | Easy |
 ## Impartial Game
-| Problem Name | Difficulty |
-| ------- | ------- |
+|  |
+| ------- |
 | [0292-nim-game](https://github.com/rajeev-devl/leetcode/tree/main/LeetCode/Easy/0292-nim-game/) | Easy |
 ## Quickselect
-| Problem Name | Difficulty |
-| ------- | ------- |
+|  |
+| ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/rajeev-devl/leetcode/tree/main/LeetCode/Medium/0215-kth-largest-element-in-an-array/) | Medium |
 | [0347-top-k-frequent-elements](https://github.com/rajeev-devl/leetcode/tree/main/LeetCode/Medium/0347-top-k-frequent-elements/) | Medium |
 ## Queue
-| Problem Name | Difficulty |
-| ------- | ------- |
+|  |
+| ------- |
 | [0387-first-unique-character-in-a-string](https://github.com/rajeev-devl/leetcode/tree/main/LeetCode/Easy/0387-first-unique-character-in-a-string/) | Easy |
 ## Trie
-| Problem Name | Difficulty |
-| ------- | ------- |
+|  |
+| ------- |
 | [0692-top-k-frequent-words](https://github.com/rajeev-devl/leetcode/tree/main/LeetCode/Medium/0692-top-k-frequent-words/) | Medium |
 ## Breadth-First Search
-| Problem Name | Difficulty |
-| ------- | ------- |
+|  |
+| ------- |
 | [0994-rotting-oranges](https://github.com/rajeev-devl/leetcode/tree/main/LeetCode/Medium/0994-rotting-oranges/) | Medium |
 ## Merge Sort
-| Problem Name | Difficulty |
-| ------- | ------- |
+|  |
+| ------- |
 | [0912-sort-an-array](https://github.com/rajeev-devl/leetcode/tree/main/LeetCode/Medium/0912-sort-an-array/) | Medium |
 ## Counting Sort
-| Problem Name | Difficulty |
-| ------- | ------- |
+|  |
+| ------- |
 | [0912-sort-an-array](https://github.com/rajeev-devl/leetcode/tree/main/LeetCode/Medium/0912-sort-an-array/) | Medium |
 ## Stack
-| Problem Name | Difficulty |
-| ------- | ------- |
+|  |
+| ------- |
 | [0020-valid-parentheses](https://github.com/rajeev-devl/leetcode/tree/main/LeetCode/Easy/0020-valid-parentheses/) | Easy |
 | [0042-trapping-rain-water](https://github.com/rajeev-devl/leetcode/tree/main/LeetCode/Hard/0042-trapping-rain-water/) | Hard |
 | [1021-remove-outermost-parentheses](https://github.com/rajeev-devl/leetcode/tree/main/LeetCode/Easy/1021-remove-outermost-parentheses/) | Easy |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/rajeev-devl/leetcode/tree/main/LeetCode/Easy/1614-maximum-nesting-depth-of-the-parentheses/) | Easy |
 ## Bracket Sequences
-| Problem Name | Difficulty |
-| ------- | ------- |
+|  |
+| ------- |
 | [0020-valid-parentheses](https://github.com/rajeev-devl/leetcode/tree/main/LeetCode/Easy/0020-valid-parentheses/) | Easy |
 | [1021-remove-outermost-parentheses](https://github.com/rajeev-devl/leetcode/tree/main/LeetCode/Easy/1021-remove-outermost-parentheses/) | Easy |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/rajeev-devl/leetcode/tree/main/LeetCode/Easy/1614-maximum-nesting-depth-of-the-parentheses/) | Easy |
 ## Monotonic Stack
-| Problem Name | Difficulty |
-| ------- | ------- |
+|  |
+| ------- |
 | [0042-trapping-rain-water](https://github.com/rajeev-devl/leetcode/tree/main/LeetCode/Hard/0042-trapping-rain-water/) | Hard |
 ## Quicksort
-| Problem Name | Difficulty |
-| ------- | ------- |
+|  |
+| ------- |
 | [0075-sort-colors](https://github.com/rajeev-devl/leetcode/tree/main/LeetCode/Medium/0075-sort-colors/) | Medium |
 ## Bubble Sort
-| Problem Name | Difficulty |
-| ------- | ------- |
+|  |
+| ------- |
 | [0075-sort-colors](https://github.com/rajeev-devl/leetcode/tree/main/LeetCode/Medium/0075-sort-colors/) | Medium |
 ## Boyer–Moore Majority Vote Algorithm
-| Problem Name | Difficulty |
-| ------- | ------- |
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/rajeev-devl/leetcode/tree/master/0169-majority-element) |
 | [0229-majority-element-ii](https://github.com/rajeev-devl/leetcode/tree/main/LeetCode/Medium/0229-majority-element-ii/) | Medium |
 ## Union-Find
-| Problem Name | Difficulty |
-| ------- | ------- |
+|  |
+| ------- |
 | [0128-longest-consecutive-sequence](https://github.com/rajeev-devl/leetcode/tree/main/LeetCode/Medium/0128-longest-consecutive-sequence/) | Medium |
 <!---LeetCode Topics End-->
