@@ -16,6 +16,7 @@
 | [0048-rotate-image](https://github.com/rajeev-devl/leetcode/tree/master/0048-rotate-image) |
 | [0049-group-anagrams](https://github.com/rajeev-devl/leetcode/tree/main/LeetCode/Medium/0049-group-anagrams/) | Medium |
 | [0053-maximum-subarray](https://github.com/rajeev-devl/leetcode/tree/main/LeetCode/Medium/0053-maximum-subarray/) | Medium |
+| [0054-spiral-matrix](https://github.com/rajeev-devl/leetcode/tree/master/0054-spiral-matrix) |
 | [0064-minimum-path-sum](https://github.com/rajeev-devl/leetcode/tree/main/LeetCode/Medium/0064-minimum-path-sum/) | Medium |
 | [0066-plus-one](https://github.com/rajeev-devl/leetcode/tree/main/LeetCode/Easy/0066-plus-one/) | Easy |
 | [0073-set-matrix-zeroes](https://github.com/rajeev-devl/leetcode/tree/master/0073-set-matrix-zeroes) |
@@ -247,6 +248,7 @@
 ## Simulation
 |  |
 | ------- |
+| [0054-spiral-matrix](https://github.com/rajeev-devl/leetcode/tree/master/0054-spiral-matrix) |
 | [0412-fizz-buzz](https://github.com/rajeev-devl/leetcode/tree/main/LeetCode/Easy/0412-fizz-buzz/) | Easy |
 | [1518-water-bottles](https://github.com/rajeev-devl/leetcode/tree/main/LeetCode/Easy/1518-water-bottles/) | Easy |
 | [2149-rearrange-array-elements-by-sign](https://github.com/rajeev-devl/leetcode/tree/main/LeetCode/Medium/2149-rearrange-array-elements-by-sign/) | Medium |
@@ -284,6 +286,7 @@
 |  |
 | ------- |
 | [0048-rotate-image](https://github.com/rajeev-devl/leetcode/tree/master/0048-rotate-image) |
+| [0054-spiral-matrix](https://github.com/rajeev-devl/leetcode/tree/master/0054-spiral-matrix) |
 | [0064-minimum-path-sum](https://github.com/rajeev-devl/leetcode/tree/main/LeetCode/Medium/0064-minimum-path-sum/) | Medium |
 | [0073-set-matrix-zeroes](https://github.com/rajeev-devl/leetcode/tree/master/0073-set-matrix-zeroes) |
 | [0074-search-a-2d-matrix](https://github.com/rajeev-devl/leetcode/tree/main/LeetCode/Medium/0074-search-a-2d-matrix/) | Medium |
