@@ -13,6 +13,7 @@
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/rajeev-devl/leetcode/tree/main/LeetCode/Medium/0034-find-first-and-last-position-of-element-in-sorted-array/) | Medium |
 | [0035-search-insert-position](https://github.com/rajeev-devl/leetcode/tree/main/0035-search-insert-position/) | Easy |
 | [0042-trapping-rain-water](https://github.com/rajeev-devl/leetcode/tree/main/LeetCode/Hard/0042-trapping-rain-water/) | Hard |
+| [0048-rotate-image](https://github.com/rajeev-devl/leetcode/tree/master/0048-rotate-image) |
 | [0049-group-anagrams](https://github.com/rajeev-devl/leetcode/tree/main/LeetCode/Medium/0049-group-anagrams/) | Medium |
 | [0053-maximum-subarray](https://github.com/rajeev-devl/leetcode/tree/main/LeetCode/Medium/0053-maximum-subarray/) | Medium |
 | [0064-minimum-path-sum](https://github.com/rajeev-devl/leetcode/tree/main/LeetCode/Medium/0064-minimum-path-sum/) | Medium |
@@ -136,6 +137,7 @@
 | ------- |
 | [0007-reverse-integer](https://github.com/rajeev-devl/leetcode/tree/main/LeetCode/Medium/0007-reverse-integer/) | Medium |
 | [0009-palindrome-number](https://github.com/rajeev-devl/leetcode/tree/main/LeetCode/Easy/0009-palindrome-number/) | Easy |
+| [0048-rotate-image](https://github.com/rajeev-devl/leetcode/tree/master/0048-rotate-image) |
 | [0066-plus-one](https://github.com/rajeev-devl/leetcode/tree/main/LeetCode/Easy/0066-plus-one/) | Easy |
 | [0189-rotate-array](https://github.com/rajeev-devl/leetcode/tree/main/LeetCode/Medium/0189-rotate-array/) | Medium |
 | [0202-happy-number](https://github.com/rajeev-devl/leetcode/tree/main/LeetCode/Easy/0202-happy-number/) | Easy |
@@ -281,6 +283,7 @@
 ## Matrix
 |  |
 | ------- |
+| [0048-rotate-image](https://github.com/rajeev-devl/leetcode/tree/master/0048-rotate-image) |
 | [0064-minimum-path-sum](https://github.com/rajeev-devl/leetcode/tree/main/LeetCode/Medium/0064-minimum-path-sum/) | Medium |
 | [0073-set-matrix-zeroes](https://github.com/rajeev-devl/leetcode/tree/master/0073-set-matrix-zeroes) |
 | [0074-search-a-2d-matrix](https://github.com/rajeev-devl/leetcode/tree/main/LeetCode/Medium/0074-search-a-2d-matrix/) | Medium |
