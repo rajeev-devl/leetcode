@@ -41,6 +41,7 @@
 | [0349-intersection-of-two-arrays](https://github.com/rajeev-devl/leetcode/tree/main/LeetCode/Easy/0349-intersection-of-two-arrays/) | Easy |
 | [0350-intersection-of-two-arrays-ii](https://github.com/rajeev-devl/leetcode/tree/main/LeetCode/Easy/0350-intersection-of-two-arrays-ii/) | Easy |
 | [0485-max-consecutive-ones](https://github.com/rajeev-devl/leetcode/tree/main/LeetCode/Easy/0485-max-consecutive-ones/) | Easy |
+| [0560-subarray-sum-equals-k](https://github.com/rajeev-devl/leetcode/tree/master/0560-subarray-sum-equals-k) |
 | [0628-maximum-product-of-three-numbers](https://github.com/rajeev-devl/leetcode/tree/main/LeetCode/Easy/0628-maximum-product-of-three-numbers/) | Easy |
 | [0645-set-mismatch](https://github.com/rajeev-devl/leetcode/tree/main/LeetCode/Easy/0645-set-mismatch/) | Easy |
 | [0692-top-k-frequent-words](https://github.com/rajeev-devl/leetcode/tree/main/LeetCode/Medium/0692-top-k-frequent-words/) | Medium |
@@ -118,6 +119,7 @@
 | [0383-ransom-note](https://github.com/rajeev-devl/leetcode/tree/main/LeetCode/Easy/0383-ransom-note/) | Easy |
 | [0387-first-unique-character-in-a-string](https://github.com/rajeev-devl/leetcode/tree/main/LeetCode/Easy/0387-first-unique-character-in-a-string/) | Easy |
 | [0451-sort-characters-by-frequency](https://github.com/rajeev-devl/leetcode/tree/main/LeetCode/Medium/0451-sort-characters-by-frequency/) | Medium |
+| [0560-subarray-sum-equals-k](https://github.com/rajeev-devl/leetcode/tree/master/0560-subarray-sum-equals-k) |
 | [0645-set-mismatch](https://github.com/rajeev-devl/leetcode/tree/main/LeetCode/Easy/0645-set-mismatch/) | Easy |
 | [0692-top-k-frequent-words](https://github.com/rajeev-devl/leetcode/tree/main/LeetCode/Medium/0692-top-k-frequent-words/) | Medium |
 | [0771-jewels-and-stones](https://github.com/rajeev-devl/leetcode/tree/main/LeetCode/Easy/0771-jewels-and-stones/) | Easy |
@@ -346,6 +348,7 @@
 |  |
 | ------- |
 | [0238-product-of-array-except-self](https://github.com/rajeev-devl/leetcode/tree/main/LeetCode/Medium/0238-product-of-array-except-self/) | Medium |
+| [0560-subarray-sum-equals-k](https://github.com/rajeev-devl/leetcode/tree/master/0560-subarray-sum-equals-k) |
 | [1732-find-the-highest-altitude](https://github.com/rajeev-devl/leetcode/tree/main/LeetCode/Easy/1732-find-the-highest-altitude/) | Easy |
 | [2574-left-and-right-sum-differences](https://github.com/rajeev-devl/leetcode/tree/main/LeetCode/Easy/2574-left-and-right-sum-differences/) | Easy |
 ## Bucket Sort
