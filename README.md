@@ -28,6 +28,7 @@
 | [0119-pascals-triangle-ii](https://github.com/rajeev-devl/leetcode/tree/master/0119-pascals-triangle-ii) |
 | [0128-longest-consecutive-sequence](https://github.com/rajeev-devl/leetcode/tree/main/LeetCode/Medium/0128-longest-consecutive-sequence/) | Medium |
 | [0135-candy](https://github.com/rajeev-devl/leetcode/tree/main/LeetCode/Hard/0135-candy/) | Hard |
+| [0152-maximum-product-subarray](https://github.com/rajeev-devl/leetcode/tree/master/0152-maximum-product-subarray) |
 | [0162-find-peak-element](https://github.com/rajeev-devl/leetcode/tree/main/LeetCode/Medium/0162-find-peak-element/) | Medium |
 | [0164-maximum-gap](https://github.com/rajeev-devl/leetcode/tree/main/LeetCode/Medium/0164-maximum-gap/) | Medium |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/rajeev-devl/leetcode/tree/main/LeetCode/Medium/0167-two-sum-ii-input-array-is-sorted/) | Medium |
@@ -323,6 +324,7 @@
 | [0064-minimum-path-sum](https://github.com/rajeev-devl/leetcode/tree/main/LeetCode/Medium/0064-minimum-path-sum/) | Medium |
 | [0118-pascals-triangle](https://github.com/rajeev-devl/leetcode/tree/master/0118-pascals-triangle) |
 | [0119-pascals-triangle-ii](https://github.com/rajeev-devl/leetcode/tree/master/0119-pascals-triangle-ii) |
+| [0152-maximum-product-subarray](https://github.com/rajeev-devl/leetcode/tree/master/0152-maximum-product-subarray) |
 | [0877-stone-game](https://github.com/rajeev-devl/leetcode/tree/main/LeetCode/Medium/0877-stone-game/) | Medium |
 | [1025-divisor-game](https://github.com/rajeev-devl/leetcode/tree/main/LeetCode/Easy/1025-divisor-game/) | Easy |
 ## Brainteaser
